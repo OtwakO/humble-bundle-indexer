@@ -12,8 +12,6 @@ jobs:
       contents: write
       pages: write
     
-    env:
-      REPO_SECRET: ${{ secrets.REPO_SECRET }}
     runs-on: ubuntu-latest
     steps:
 
@@ -37,7 +35,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git remote add origin https://$REPO_SECRET@github.com/$GITHUB_REPOSITORY.git 
           git checkout -b gh-pages
           git add .
           git commit -a -m "Indexer executed!" --allow-empty
