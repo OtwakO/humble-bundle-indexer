@@ -18,7 +18,7 @@ def render(content, all_months):
     #     data = json.load(f)["Games"]
     logger.success(f"Rendering all games...")
 
-    with open(f"output/Index.html", "w", encoding="utf-8") as f:
+    with open(f"output/index.html", "w", encoding="utf-8") as f:
         f.write(
             template.render(
                 games=content,
