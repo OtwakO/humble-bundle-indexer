@@ -1,9 +1,13 @@
 # -*- coding: utf-8 -*-
-import os, sys, time, json
+import json
+import os
+import sys
+import time
+from dataclasses import asdict, dataclass
+from pprint import pprint
+
 from jinja2 import Environment, FileSystemLoader
 from loguru import logger
-from pprint import pprint
-from dataclasses import dataclass, asdict
 
 os.chdir(os.path.dirname(os.path.abspath(sys.argv[0])))
 
@@ -18,7 +22,7 @@ def render(content, all_months):
     #     data = json.load(f)["Games"]
     logger.success(f"Rendering all games...")
 
-    with open(f"output/HumbleChoices.html", "w", encoding="utf-8") as f:
+    with open(f"output/Index.html", "w", encoding="utf-8") as f:
         f.write(
             template.render(
                 games=content,
