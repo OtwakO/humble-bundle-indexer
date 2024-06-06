@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
 import sys
+from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
 from loguru import logger
@@ -10,6 +11,8 @@ os.chdir(os.path.dirname(os.path.abspath(sys.argv[0])))
 env = Environment(loader=FileSystemLoader("templates/"))
 
 template = env.get_template("gallery.html")
+OUTPUT_DIR = Path("output")
+OUTPUT_DIR.mkdir(exist_ok=True, parents=True)
 
 
 def render(content, all_months):
