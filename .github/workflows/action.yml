@@ -2,7 +2,7 @@ name: run indexer
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 0 10 * *' # Runs every month on the 10th day of the month at 00:00 UTC
 
 jobs:
   build:
@@ -47,5 +47,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: gh-pages
-          directory: output
+          directory: ./output
           force: true
