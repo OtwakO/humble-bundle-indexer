@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+    integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js"
+    integrity="sha512-q583ppKrCRc7N5O0n2nzUiJ+suUv7Et1JGels4bXOaMFQcamPk9HjdUknZuuFjBNs7tsMuadge5k9RzdmO+1GQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+
+    $(document).ready(function () {
+        $(".img-set").on("contextmenu", function (event) {
+            // console.log("right clicked on item");
+            event.preventDefault();
+
+            // Show custom contextmenu when right clicked on objects of specific class (.img-set)
+            document.getElementById("custom_rmenu").style.top = event.clientY + 'px';
+            document.getElementById("custom_rmenu").style.left = event.clientX + 'px';
+            document.getElementById("custom_rmenu").style.visibility = "visible";
+            document.getElementById("custom_rmenu").style.opacity = "1";
+
+        });
+    });
+
+    // Hides away custom contextmenu on any click
+    $(document).bind("click", function (event) {
+        document.getElementById("custom_rmenu").style.visibility = "hidden";
+        document.getElementById("custom_rmenu").style.opacity = "0";
+    });
+
+    function MarkRead() {
+        console.log("Marked as read");
+    }
+
+    function UnmarkRead() {
+        console.log("Unmark read");
+    }
+
+    function prevPage() {
+        window.location.href = "{{ path }}\\HumbleChoices.html";
+    }
+
+    function nextPage() {
+        window.location.href = "{{ path }}\\HumbleChoices.html";
+    }
+
+</script>
+
+<style type="text/css">
+    .header {
+        overflow: hidden;
+        background-color: rgba(90, 51, 0, 0.3);
+        padding: 20px 20px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+
+    .header a {
+        float: left;
+        color: black;
+        text-align: center;
+        padding: 8px;
+        text-decoration: none;
+        font-size: 24px;
+        border-radius: 10px;
+    }
+
+    .header a.logo {
+        font-size: 24px;
+        /* font-weight: bold; */
+        background-color: rgba(250, 249, 249, 0.7);
+    }
+
+    .header a:hover {
+        background-color: rgba(90, 51, 0, 0.6);
+        box-shadow: 1px 1px 12px rgba(0, 0, 0, 0.9);
+    }
+
+    .header-right {
+        float: right;
+    }
+
+    .header-right a {
+        margin: 5px;
+        box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.6);
+    }
+
+
+    .mainContainer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        background-color: rgba(90, 51, 0, 0.05);
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+
+    .page_sep {
+        overflow: hidden;
+        background-color: rgba(90, 51, 0, 0.2);
+        padding: 20px 20px;
+        text-align: center;
+        width: 100%;
+        margin: 10px;
+        font-size: 24px;
+    }
+
+    .page_sep a {
+        text-decoration: none;
+        color: black
+    }
+
+    .cellContainer {
+        float: left;
+        margin: 10px;
+        border-radius: 10px;
+        background-color: rgba(90, 51, 0, 0);
+        box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.6);
+    }
+
+    .cellContainer:hover {
+        box-shadow: 1px 1px 14px rgba(0, 0, 0, 0.9);
+    }
+
+
+    .img-set img {
+        max-height: 400px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+
+    figure {
+        display: table;
+        margin: auto;
+    }
+
+    figure a {
+        position: relative;
+        display: table;
+        margin: auto;
+        text-decoration: none;
+        color: black;
+    }
+
+    figure span {
+        position: absolute;
+        right: 5px;
+        top: 5px;
+        z-index: 1;
+        padding: 5px;
+        background: rgba(0, 0, 0, 0.7);
+        color: rgba(255, 255, 255, 0.8);
+        border-radius: 4px;
+    }
+
+    figcaption.title {
+        display: table-caption;
+        caption-side: bottom;
+        font-size: 24px;
+        padding: 3px;
+        border-radius: 10px;
+        margin: 10px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+
+    figcaption.genre {
+        display: table-caption;
+        background: rgba(0, 0, 0, 0.5);
+        color: white;
+        caption-side: bottom;
+        font-size: 20px;
+        padding: 3px;
+        border-radius: 10px;
+        margin: 10px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+
+    figcaption.description {
+        display: table-caption;
+        caption-side: bottom;
+        font-size: 18px;
+        padding: 3px;
+        border-radius: 10px;
+        margin: 10px;
+        margin-top: 0px;
+    }
+
+    #custom_rmenu {
+        position: fixed;
+        display: grid;
+        z-index: 9999;
+        visibility: show;
+        opacity: 0;
+        width: auto;
+        background-color: rgba(245, 241, 236, 0.85);
+        border: 1px solid #C6C6C6;
+        border-radius: 5px;
+
+        /* -webkit-transition: opacity .5s ease-in-out;
+            -moz-transition: opacity .5s ease-in-out;
+            transition: opacity .5s ease-in-out; */
+
+        -webkit-box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.6);
+        -moz-box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.6);
+        box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.6);
+    }
+
+    #custom_rmenu a {
+        color: black;
+        font-size: 18px;
+        text-decoration: none;
+        padding: 5px 10px;
+        border-radius: inherit;
+        text-align: center;
+        transition: 0.2s;
+    }
+
+    #custom_rmenu a:hover {
+        background-color: rgba(171, 159, 143, 0.85);
+    }
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Humble Choice Indexer</title>
+</head>
+
+<body>
+    <div class="header">
+        <a href="https://www.humblebundle.com" class="logo">Humble Choice Indexer</a>
+        <div class="header-right">
+            <a href="{{ path }}\\HumbleChoices.html">Prev</a>
+            <a href="{{ path }}\\HumbleChoices.html">Home</a>
+            <a href="{{ path }}\\HumbleChoices.html">Next</a>
+        </div>
+    </div>
+
+    <div id="custom_rmenu">
+        <a href="#" onclick="prevPage()">Previous</a>
+        <a href="#" onclick="nextPage()">Next</a>
+    </div>
+
+    <div class="mainContainer">
+
+        {% for page in games %}
+        <div class="page_sep">
+            <a href="{{ page[0]['link'] }}" target="_blank" rel="noreferrer noopener">
+                {{ all_months[loop.index0][0] }} {{ all_months[loop.index0][1] }}
+            </a>
+        </div>
+        {% for game in page %}
+        <div class="cellContainer">
+            <figure class="img-set">
+                <a href="{{ game['link'] }}" target="_blank" rel="noreferrer noopener">
+                    <img class="lazyload" data-src="{{ game['cover'] }}"></img>
+                    <span>{{ game['rating'] }}</span>
+                    <figcaption class="title">{{ game['title'] }}</figcaption>
+                    <figcaption class="genre">{{ game["genre"] }}</figcaption>
+                    <figcaption class="description">{{ game['description'] }}</figcaption>
+                </a>
+            </figure>
+        </div>
+        {% endfor %}
+        {% endfor %}
+
+    </div>
+
+</body>
+
+</html>
