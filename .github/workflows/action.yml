@@ -35,11 +35,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git checkout -b gh-pages
-          git add .
+          git add output
           git commit -a -m "Indexer executed!" --allow-empty
-          git push origin `git subtree split --prefix output origin gh-pages`:gh-pages --force
-        # git subtree push --prefix output origin gh-pages
+          git subtree push --prefix output origin gh-pages
           
       - name: Push to main branch
         uses: ad-m/github-push-action@master
