@@ -38,7 +38,7 @@ jobs:
           git checkout -b gh-pages
           git add .
           git commit -a -m "Indexer executed!" --allow-empty
-          git subtree push --prefix output origin gh-pages
+          git push origin `git subtree split --prefix output origin`:gh-pages --force
           
       - name: Push to main branch
         uses: ad-m/github-push-action@master
