@@ -1,6 +1,1131 @@
 {
   "Games": [
     {
+      "tombraideriv-viremastered": {
+        "recommendation_copy_dict": {
+          "copy": "Play as Lara Croft, but with her rough polygon edges smoothed out, in Tomb Raider IV\u2013VI Remastered! Experience this iconic trio of Y2K-era series entries with improved visuals, presentation, and quality-of-life improvements.<br><br>Tomb Raider IV\u2013VI Remastered tells the cohesive story of Lara\u2019s ability to adapt, overcome, and thrive in the face of ungodly trouble: race against the clock to reseal the Egyptian god Set before they destroy Cairo in Tomb Raider: The Last Revelation. Presumed dead following the events in Egypt, play as Lara in the canonical prequel, Tomb Raider: Chronicles. And rise from the ashes of Rome in Tomb Raider: The Angel of Darkness\u2014the final installment of this epic trio of adventures.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><em><strong>Keys expire. Please redeem your key before February 3rd, 2027.</strong></em></span></span>"
+        },
+        "delivery_methods": [
+          "steam"
+        ],
+        "description": "<strong>\n Her legacy lives on!\n</strong>\n<br>\nPlay the next series of Tomb Raider adventures in this remastered collection of the Darkness Trilogy.\n<br>\n<br>\n<br>\n<strong>\n Included Game Titles\n</strong>\n<br>\nTomb Raider: The Last Revelation \u2013 Lara Croft discovers the lost tomb of the Egyptian God Set, unwittingly unleashing him and fulfilling an ancient prophecy\u2014one that plunges mankind into darkness.\n<br>\n<br>\nTomb Raider: Chronicles \u2013 Following the events of The Last Revelation, Lara Croft is buried in an Egyptian tomb and is presumed dead. At her memorial, those closest to her reminisce about secrets from her past.\n<br>\n<br>\nTomb Raider: The Angel of Darkness \u2013 Accused of murder, Lara becomes a fugitive on the run, while uncovering a sinister conspiracy involving alchemical experiments and the search for ancient artifacts.\n<br>\n<br>\n<br>\n<strong>\n Key Features\n</strong>\n<br>\nSee the Classic & Remastered Visuals: Play with the original polygonal models or swap to the remastered graphics at any time\n<br>\n<br>\nTravel the Globe: Follow Lara Croft around iconic locales including Cairo, Rome, Paris, and many more\n<br>\n<br>\nExperience Lara\u2019s Darkest Adventures: Uncover the secrets of Lara Croft\u2019s past and shed light on the mystery of her disappearance\n",
+        "title": "Tomb Raider IV-VI Remastered",
+        "carousel_content": {
+          "youtube-link": [
+            "vF9-JeSRRaI"
+          ],
+          "thumbnails": [
+            "https://hb.imgix.net/851a2aeaa928349b322d74cb13ab3437a82de1db.jpg?auto=compress,format&fit=crop&h=122&w=218&s=491c6533a19851d1731fe57dd6803331",
+            "https://hb.imgix.net/422a019ffd1dadc4f17125320167b8a7d2a458ba.jpg?auto=compress,format&fit=crop&h=122&w=218&s=aedd6021637dea76cc71cb648d51d383",
+            "https://hb.imgix.net/6f86c2438fda8fe24d3a3fe5be13e79f4d24991e.jpg?auto=compress,format&fit=crop&h=122&w=218&s=a8b14e43cad4dcc66fc4c229de5087ef",
+            "https://hb.imgix.net/7a6c461bdf68c604ba4a200bc88360f26ece9ff7.jpg?auto=compress,format&fit=crop&h=122&w=218&s=92e787f2c89cc55c217488233d027dfc",
+            "https://hb.imgix.net/63b90899f2fabfe6cbf9d1eec430529bf2ac237d.jpg?auto=compress,format&fit=crop&h=122&w=218&s=902c84d8dac9c91f5a5be1e7e16107d3",
+            "https://hb.imgix.net/56dc2f319f51eea0d6377c0707cb48ae1e2dcfd2.jpg?auto=compress,format&fit=crop&h=122&w=218&s=afe68cc0ca8f3486d6f34fc5a59fc278",
+            "https://hb.imgix.net/f78214f3a1e7fac54500184fa20f615f77b055bc.jpg?auto=compress,format&fit=crop&h=122&w=218&s=9547c0b36a492edd5da550b47d35d537",
+            "https://hb.imgix.net/d944d1422220c0587bdf301e1897842072424775.jpg?auto=compress,format&fit=crop&h=122&w=218&s=ad33edb620ec777515a31b52ca54be19",
+            "https://hb.imgix.net/31d3bede8cb6c255fd85ea248db7c41e47774317.jpg?auto=compress,format&fit=crop&h=122&w=218&s=9d82d747f1f89406aa773f4a93b1c00d",
+            "https://hb.imgix.net/dda3d760b3370aa430181966aee779371e5bdf46.jpg?auto=compress,format&fit=crop&h=122&w=218&s=af8ba141416a0c2f5810051ebf1ce2e3"
+          ],
+          "screenshot": [
+            "https://hb.imgix.net/851a2aeaa928349b322d74cb13ab3437a82de1db.jpg?auto=compress,format&fit=crop&h=425&w=741&s=b93d4d5da9702220310f1c03c20d792d",
+            "https://hb.imgix.net/422a019ffd1dadc4f17125320167b8a7d2a458ba.jpg?auto=compress,format&fit=crop&h=425&w=741&s=ab14672ee007bfe93a726e184d104858",
+            "https://hb.imgix.net/6f86c2438fda8fe24d3a3fe5be13e79f4d24991e.jpg?auto=compress,format&fit=crop&h=425&w=741&s=7521dd8510dc6dd762124f01593ee777",
+            "https://hb.imgix.net/7a6c461bdf68c604ba4a200bc88360f26ece9ff7.jpg?auto=compress,format&fit=crop&h=425&w=741&s=dd79aa561b62e43b2cb15ae532b212e1",
+            "https://hb.imgix.net/63b90899f2fabfe6cbf9d1eec430529bf2ac237d.jpg?auto=compress,format&fit=crop&h=425&w=741&s=c0bb24fafe5123ee73f6143821b22ad3",
+            "https://hb.imgix.net/56dc2f319f51eea0d6377c0707cb48ae1e2dcfd2.jpg?auto=compress,format&fit=crop&h=425&w=741&s=394e244cc9c122c5856d0808a905933e",
+            "https://hb.imgix.net/f78214f3a1e7fac54500184fa20f615f77b055bc.jpg?auto=compress,format&fit=crop&h=425&w=741&s=ee26902b614982a5d951de865f3e2182",
+            "https://hb.imgix.net/d944d1422220c0587bdf301e1897842072424775.jpg?auto=compress,format&fit=crop&h=425&w=741&s=354ded6fc94e703fd8b43ae0efe5c97f",
+            "https://hb.imgix.net/31d3bede8cb6c255fd85ea248db7c41e47774317.jpg?auto=compress,format&fit=crop&h=425&w=741&s=02a558316b56a086a77b8ce8131e3c4a",
+            "https://hb.imgix.net/dda3d760b3370aa430181966aee779371e5bdf46.jpg?auto=compress,format&fit=crop&h=425&w=741&s=9ad84ebdab2fae3e15eb5f22faa40d88"
+          ]
+        },
+        "image": "https://hb.imgix.net/f5c34c5b498c3a8ca454dfe5f8b271a3232ff508.png?auto=compress,format&fit=clip&h=383&w=667&s=4235ba98af9df131619f71018bc026e6",
+        "display_item_machine_name": "tombraideriv-viremastered",
+        "tpkds": [
+          {
+            "machine_name": "tombraideriv-viremastered_row_choice_steam",
+            "custom_instructions_html": "<p><div style=\"text-align: center;\"><span style=\"color: #1695df;\"><strong>Must be redeemed by February 3rd, 2027 by 10:00 AM Pacific Time.</strong></span></div><p>",
+            "show_custom_instructions_in_user_libraries": false,
+            "key_type": "steam",
+            "visible": true,
+            "sold_out": false,
+            "is_partial_gift": false,
+            "display_separately": false,
+            "steam_app_id": 2525380,
+            "exclusive_countries": [],
+            "class": "steambutton",
+            "num_days_until_expired": 389,
+            "gamekey": null,
+            "expiration_date|datetime": "2027-02-03T18:00:00",
+            "disallowed_countries": [
+              "AD",
+              "AG",
+              "AL",
+              "AM",
+              "AR",
+              "AT",
+              "AX",
+              "AZ",
+              "BA",
+              "BB",
+              "BE",
+              "BG",
+              "BH",
+              "BM",
+              "BN",
+              "BO",
+              "BR",
+              "BS",
+              "BZ",
+              "CH",
+              "CL",
+              "CN",
+              "CO",
+              "CR",
+              "CU",
+              "CY",
+              "CZ",
+              "DE",
+              "DK",
+              "DM",
+              "DO",
+              "DZ",
+              "EC",
+              "EE",
+              "EG",
+              "ES",
+              "FI",
+              "FK",
+              "FO",
+              "FR",
+              "GB",
+              "GD",
+              "GE",
+              "GF",
+              "GG",
+              "GI",
+              "GL",
+              "GR",
+              "GS",
+              "GT",
+              "GY",
+              "HK",
+              "HN",
+              "HR",
+              "HT",
+              "HU",
+              "ID",
+              "IE",
+              "IM",
+              "IN",
+              "IQ",
+              "IS",
+              "IT",
+              "JE",
+              "JM",
+              "JO",
+              "KG",
+              "KH",
+              "KN",
+              "KZ",
+              "LA",
+              "LB",
+              "LC",
+              "LI",
+              "LK",
+              "LT",
+              "LU",
+              "LV",
+              "LY",
+              "MA",
+              "MC",
+              "MD",
+              "ME",
+              "MK",
+              "MO",
+              "MT",
+              "MX",
+              "MY",
+              "NI",
+              "NL",
+              "NO",
+              "OM",
+              "PA",
+              "PE",
+              "PH",
+              "PL",
+              "PR",
+              "PS",
+              "PT",
+              "PY",
+              "RO",
+              "RS",
+              "SD",
+              "SE",
+              "SG",
+              "SI",
+              "SJ",
+              "SK",
+              "SM",
+              "SR",
+              "SV",
+              "TH",
+              "TJ",
+              "TM",
+              "TN",
+              "TR",
+              "TT",
+              "TW",
+              "UA",
+              "UY",
+              "UZ",
+              "VA",
+              "VC",
+              "VE",
+              "VN",
+              "YE"
+            ],
+            "direct_redeem": false,
+            "instructions_html": "<a href='https://support.humblebundle.com/hc/articles/204008710-How-To-Redeem-Steam-Keys' target='_blank'>Steam Instructions</a>",
+            "key_type_human_name": "Steam",
+            "human_name": "Tomb Raider IV-VI Remastered",
+            "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
+            "auto_expand": true,
+            "is_expired": false,
+            "partial_gift_enabled": true,
+            "disclaimer": "Steam will not provide extra giftable copies of games you already own."
+          }
+        ],
+        "user_rating": {
+          "steam_percent|decimal": 0.9,
+          "display_user_ratings": "steam_overall",
+          "review_text": "very_positive",
+          "steam_count": 1264
+        },
+        "platforms": [
+          "windows"
+        ],
+        "more_information": null,
+        "msrp|money": {
+          "currency": "USD",
+          "amount": 29.99
+        },
+        "developers": [
+          "Aspyr",
+          "Crystal Dynamics"
+        ],
+        "system_requirements": "<b>Minimum:</b><br><br><b><u>Windows</u></b><br><strong>OS:</strong> Windows 10+<br><strong>Processor:</strong> Intel i3 / AMD FX-4100<br><strong>Memory:</strong> 4 GB RAM<br><strong>Graphics:</strong> GeForce GT 620 1gb / Radeon HD 8670D<br><br><b>Recommended:</b><br><br><b><u>Windows</u></b><br><strong>OS:</strong> Windows 10+<br><strong>Processor:</strong> Intel i7 / AMD Ryzen 7 5800<br><strong>Memory:</strong> 16 GB RAM<br><strong>Graphics:</strong> NVIDA RTX 2080 / Radeon RX 6750<br><br><b>Supported Languages:</b> English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      "settlementsurvival": {
+        "recommendation_copy_dict": {
+          "copy": "<p>Cozy up this winter with Settlement Survival, the city-builder that brings players into fields of crops, bustling streets, bustling ports, and beyond. Lead a group of medieval survivors in your search for suitable land for your new home. Shape your land with easy-to-use creation tools to carve out farmlands, join rivers, form lakes, and more. Evolve your settlement with trusty and skilled townsfolk from a humble village with meager accommodations to a lively town with a rich trade economy. Settlement Survival life isn\u2019t always a breeze\u2014survive the uncertainty of Mother Nature\u2019s forest fires, flash floods, plagues, and a variety of natural disasters!<br><br>Do you have what it takes to survive?</p>\n<p><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><em><strong>Keys expire. Please redeem your key before August 3rd, 2026.</strong></em></span></span></p>"
+        },
+        "delivery_methods": [
+          "steam"
+        ],
+        "description": "<p>\n Lead your people to their new settlement in this survival city-builder. You will need to provide their shelter, guarantee the food supply, protect against threats of nature, and pay attention to well-being, happiness, education, and employment. Do all of this well, and you might even attract residents from foreign cities!\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/361d885ee887b6c181d8465a0c34d9795448e0f1.jpg?auto=compress,format&s=4c4f7657f6a9de6e59f069a9abc6613b\" width=\"616\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/ec338028ed2794f24fe91cf9e9ee4115.webm?t=1763037488\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/ec338028ed2794f24fe91cf9e9ee4115.mp4?t=1763037488\">\n  </video>\n </span>\n</p>\n<p>\n Choose where to build your settlement based on nearby resources, before determining your perfect layout. How will you build your settlement?\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/b83a1ac6b2ff3d85f2e38a28e092fa1000d26d8c.jpg?auto=compress,format&s=cf0615a6f2678186f753dbcd68068d96\" width=\"616\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/05c7c2365007ee910d5020aed5344ab5.webm?t=1763037488\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/05c7c2365007ee910d5020aed5344ab5.mp4?t=1763037488\">\n  </video>\n </span>\n</p>\n<p>\n Carve out the land, join rivers, form lakes and use your tools to shape your settlement exactly how you want it.\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/3b3bce8ede560833645ba9130380aa1a4a735eda.jpg?auto=compress,format&s=05efab9645059d5c88572d11d2bb55e3\" width=\"616\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/02948b8bf12d3b60b3ae6ef325a69bc2.webm?t=1763037488\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/02948b8bf12d3b60b3ae6ef325a69bc2.mp4?t=1763037488\">\n  </video>\n </span>\n</p>\n<p>\n Build housing, recruit Mayors to determine the morality of your settlement, control crime and ensure your baby-booms don\u2019t negatively impact your resources.\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/b5d66b8c16741a2a2d221985f34ff5b92645277d.jpg?auto=compress,format&s=e7fe7e52b39dcf1f1e7f42f2dcad72a1\" width=\"616\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/ae2ead9a665bfb36159da1dbf42c25e2.webm?t=1763037488\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/ae2ead9a665bfb36159da1dbf42c25e2.mp4?t=1763037488\">\n  </video>\n </span>\n</p>\n<p>\n Experience all seasons and heed the early warning signs of disasters. Bunker down and protect your citizens from the elements as well as environmental disasters, or risk losing all that you\u2019ve built.\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/a43355b09df7fd757424b0dda91d8f50c82f853f.jpg?auto=compress,format&s=7483de4257b48bfd4de39ddae4f5858a\" width=\"616\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/56aff65f01ae13ed1f4982c6fae75c89.webm?t=1763037488\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/56aff65f01ae13ed1f4982c6fae75c89.mp4?t=1763037488\">\n  </video>\n </span>\n</p>\n<p>\n Offering powerful effects, unique themes and styles, rare blueprints are an opportunity to customize your settlement even further when you\u2019ve mastered the art of trading.\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/331e541f41bbbab81db05326903a23f3fa3beb6e.jpg?auto=compress,format&s=40d9f68e96cafe2b5bf58840d34b170a\" width=\"616\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/35a40cb25db09885f273361b751c5a5b.webm?t=1763037488\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/35a40cb25db09885f273361b751c5a5b.mp4?t=1763037488\">\n  </video>\n </span>\n</p>\n<p>\n Determine which development routes you will choose, with options that range from trading, education, mining, construction, agriculture, processing, logistics, and liveability. Each route unlocks new buildings and abilities to boost development. and there is no set pattern to the route selection, so you can choose freely and play to your strengths.\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/cf2590eadac26871ac63722b69528af5cbe7b6b1.jpg?auto=compress,format&s=c0491134c2dc9bbf2fb79c1530193a88\" width=\"616\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/4e53d6046bfe0e81da20fc8451a5a8e7.webm?t=1763037488\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/4e53d6046bfe0e81da20fc8451a5a8e7.mp4?t=1763037488\">\n  </video>\n </span>\n</p>\n<p>\n With each map randomly generated, right down to its resources and landmarks, every experience is unique and brings with it its own challenges.\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/18e1ef23924a461fa3e2eb0c7c8329e06b430b68.jpg?auto=compress,format&s=01dbbe8cf391fe0ceb33b1e3173153c4\" width=\"616\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/60a293ae4261212e207fdbbe69373d36.webm?t=1763037488\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/60a293ae4261212e207fdbbe69373d36.mp4?t=1763037488\">\n  </video>\n </span>\n</p>\n<p>\n Whether exchanging artistic items of high value, unprocessed products or unlocking the mint to create a common currency, trade is key to your populations survival.\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/08b41b73fd2bb259943e7e0421e8c4b4a22e898d.jpg?auto=compress,format&s=89ec24e63a71caecb7245b16c064fe5e\" width=\"616\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/7b2502dd02edb97c35899d4f1203c0e6.webm?t=1763037488\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1509510/extras/7b2502dd02edb97c35899d4f1203c0e6.mp4?t=1763037488\">\n  </video>\n </span>\n</p>\n<p>\n Experience a unique game mode designed to challenge even the most experienced player. From the bubonic plague in Europe, to the Easter Island disaster, are you able to overcome its challenges?\n</p>",
+        "title": "Settlement Survival",
+        "carousel_content": {
+          "youtube-link": [
+            "N-n1b6IT7Io",
+            "kxLppqQAUB8",
+            "p-WqjFPoFwU"
+          ],
+          "thumbnails": [
+            "https://hb.imgix.net/a8dca20d521f4d47f3eaaaebdb6ac2b8e6798c55.jpg?auto=compress,format&fit=crop&h=122&w=218&s=342ac804b2c12626b25d7b1e4c172bc4",
+            "https://hb.imgix.net/084642af2ec345b66af89d8c49069e9b35b8d133.jpg?auto=compress,format&fit=crop&h=122&w=218&s=d73275fa2dd60791d94cdecd46b6708e",
+            "https://hb.imgix.net/d4677898670144c9abfa9e0a3019458a29e5dc7d.jpg?auto=compress,format&fit=crop&h=122&w=218&s=abbef3ef33637cceaa145cde666b1dce",
+            "https://hb.imgix.net/1300b048fa12d53c753975b5dae35ce2958ccd3b.jpg?auto=compress,format&fit=crop&h=122&w=218&s=80201a6fdba7b43cd47b6213bec8d5d9",
+            "https://hb.imgix.net/918aa6cb9717649b7fac435461fb464e105cee81.jpg?auto=compress,format&fit=crop&h=122&w=218&s=0ffe54b69a75fb4abcec11a83c3acb9c",
+            "https://hb.imgix.net/285158b80a79318386e8089ed02d52d2952eb1e3.jpg?auto=compress,format&fit=crop&h=122&w=218&s=f4e0d5536fcf56e9c155a634d85db974",
+            "https://hb.imgix.net/9c076db19ce377a6a577a08f46499e65ca9a04e4.jpg?auto=compress,format&fit=crop&h=122&w=218&s=5cd2d2c68381f3578f89152365ef7002",
+            "https://hb.imgix.net/5c6f1948f5fa0468a1046987a2c95eec0befb2d9.jpg?auto=compress,format&fit=crop&h=122&w=218&s=f415d3a534137124722766bfcf8b0e0e",
+            "https://hb.imgix.net/84e7fbd78719dc8cf5af25606fa797681f4b1deb.jpg?auto=compress,format&fit=crop&h=122&w=218&s=647b4aa23f8348abbd6be329fd552e71",
+            "https://hb.imgix.net/b021ed82a0d9628eb79af167015b8c4001477eb0.jpg?auto=compress,format&fit=crop&h=122&w=218&s=2afd58909a1a6f4ff302af16d47eb7dd",
+            "https://hb.imgix.net/54cd29980ed3d364ea7748ac9042b4d384c037ed.jpg?auto=compress,format&fit=crop&h=122&w=218&s=5ef338836e0d37eb5c1b2703737dfa0d"
+          ],
+          "screenshot": [
+            "https://hb.imgix.net/a8dca20d521f4d47f3eaaaebdb6ac2b8e6798c55.jpg?auto=compress,format&fit=crop&h=425&w=741&s=8d98ae2d29e941133ec37c27ff8c2de8",
+            "https://hb.imgix.net/084642af2ec345b66af89d8c49069e9b35b8d133.jpg?auto=compress,format&fit=crop&h=425&w=741&s=aad91e28cc334494b3d8d66a6f8b65c8",
+            "https://hb.imgix.net/d4677898670144c9abfa9e0a3019458a29e5dc7d.jpg?auto=compress,format&fit=crop&h=425&w=741&s=7341739b08005f0cd4213a197efbc06d",
+            "https://hb.imgix.net/1300b048fa12d53c753975b5dae35ce2958ccd3b.jpg?auto=compress,format&fit=crop&h=425&w=741&s=ff64e013be4bd8d8bcd46fb5bd4eb5c4",
+            "https://hb.imgix.net/918aa6cb9717649b7fac435461fb464e105cee81.jpg?auto=compress,format&fit=crop&h=425&w=741&s=23610194691ab70439e7316e8d038bd3",
+            "https://hb.imgix.net/285158b80a79318386e8089ed02d52d2952eb1e3.jpg?auto=compress,format&fit=crop&h=425&w=741&s=dac5e2953361645a53a3a1e84acf4d1b",
+            "https://hb.imgix.net/9c076db19ce377a6a577a08f46499e65ca9a04e4.jpg?auto=compress,format&fit=crop&h=425&w=741&s=51b72abd7b3e49405cce2b89bf7c6b14",
+            "https://hb.imgix.net/5c6f1948f5fa0468a1046987a2c95eec0befb2d9.jpg?auto=compress,format&fit=crop&h=425&w=741&s=62910ce09823aa4373fd4837a0caeff8",
+            "https://hb.imgix.net/84e7fbd78719dc8cf5af25606fa797681f4b1deb.jpg?auto=compress,format&fit=crop&h=425&w=741&s=c3bac047a1c26f7f7087a08d9cd3b88e",
+            "https://hb.imgix.net/b021ed82a0d9628eb79af167015b8c4001477eb0.jpg?auto=compress,format&fit=crop&h=425&w=741&s=1fa31702dc95f8c0841f9186b6d7b6a9",
+            "https://hb.imgix.net/54cd29980ed3d364ea7748ac9042b4d384c037ed.jpg?auto=compress,format&fit=crop&h=425&w=741&s=89518bf02f9b747fa9d657aa8549f451"
+          ]
+        },
+        "image": "https://hb.imgix.net/20ff14cf63d63b109c40a440c597533ffaaaff4f.jpg?auto=compress,format&fit=clip&h=383&w=667&s=fb3bda7cc5d1f471190605f9c2b65eb6",
+        "display_item_machine_name": "settlementsurvival",
+        "tpkds": [
+          {
+            "machine_name": "settlementsurvival_choice_steam",
+            "custom_instructions_html": "<p><div style=\"text-align: center;\"><span style=\"color: #1695df;\"><strong>Must be redeemed by August 3rd, 2026 by 10:00 AM Pacific Time.</strong></span></div><p>",
+            "show_custom_instructions_in_user_libraries": false,
+            "key_type": "steam",
+            "visible": true,
+            "sold_out": false,
+            "is_partial_gift": false,
+            "display_separately": false,
+            "steam_app_id": 1509510,
+            "exclusive_countries": [],
+            "class": "steambutton",
+            "num_days_until_expired": 205,
+            "gamekey": null,
+            "expiration_date|datetime": "2026-08-03T17:00:00",
+            "disallowed_countries": [],
+            "direct_redeem": false,
+            "instructions_html": "<a href='https://support.humblebundle.com/hc/articles/204008710-How-To-Redeem-Steam-Keys' target='_blank'>Steam Instructions</a>",
+            "key_type_human_name": "Steam",
+            "human_name": "Settlement Survival",
+            "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
+            "auto_expand": true,
+            "is_expired": false,
+            "partial_gift_enabled": true,
+            "disclaimer": "Steam will not provide extra giftable copies of games you already own."
+          }
+        ],
+        "user_rating": {
+          "steam_percent|decimal": 0.85,
+          "display_user_ratings": "steam_overall",
+          "review_text": "very_positive",
+          "steam_count": 2910
+        },
+        "platforms": [
+          "mac",
+          "windows"
+        ],
+        "more_information": null,
+        "msrp|money": {
+          "currency": "USD",
+          "amount": 19.99
+        },
+        "developers": [
+          "Gleamer Studio"
+        ],
+        "system_requirements": "<b>Minimum:</b><br><br><b><u>Windows</u></b><br><strong>OS:</strong> Windows 10(64-Bit)<br><strong>Processor:</strong> I3-2100-3GHZ 2 Core<br><strong>Memory:</strong> 4 GB RAM<br><strong>Graphics:</strong> NVDIA Geforce GTX-650 1GB<br><strong>DirectX:</strong> Version 11<br><strong>Storage:</strong> 1 GB available space<br><br><b><u>Mac</u></b><br><strong>OS:</strong> OS X 10.11 (64-bit)<br><strong>Processor:</strong> Intel Core 2 Duo, 3.0GHz/Apple M1<br><strong>Memory:</strong> 4 GB RAM<br><strong>Graphics:</strong> nVIDIA GeForce GTX 260, 512 MB or ATI Radeon HD 5670, 512 MB<br><strong>Storage:</strong> 2 GB available space<br><br><b>Recommended:</b><br><br><b><u>Windows</u></b><br><strong>OS:</strong> Windows 10(64-Bit)<br><strong>Processor:</strong> I5-4590 3.3GHZ 4 Core<br><strong>Memory:</strong> 16 GB RAM<br><strong>Graphics:</strong> NVDIA Geforce GTX-1050Ti 4GB<br><strong>DirectX:</strong> Version 11<br><strong>Storage:</strong> 2 GB available space<br><br><b><u>Mac</u></b><br><strong>OS:</strong> OS X 10.11 (64-bit)<br><strong>Processor:</strong> Intel Core i5-3470, 3.20GHz/Apple M2<br><strong>Memory:</strong> 6 GB RAM<br><strong>Graphics:</strong> nVIDIA GeForce GTX 660, 2 GB or AMD Radeon HD 7870, 2 GB<br><strong>Storage:</strong> 2 GB available space<br><br><b>Supported Languages:</b> Simplified Chinese, English, French, German, Russian, Spanish - Latin America, Japanese, Italian, Polish, Portuguese - Brazil, Turkish, Korean",
+        "genres": [
+          "Strategy",
+          "Simulation"
+        ]
+      },
+      "nicedayforfishing": {
+        "recommendation_copy_dict": {
+          "copy": "Nice Day for Fishing is an epic tale of fantasy, adventure, and\u2026fishing? Literally go from NPC to star of an RPG when the heroes of your pixelated homeworld vanish without a trace and a dark evil threatens the fishing holes you cherish. Thrust into your new role as an Adventurer, it\u2019s up to you\u2014Baelin the fisherman\u2014to save the day with rod in hand. Enhance your fishing rod to increase your strength and take on bigger and bigger challenges.<br><br>Engage in fearsome fishing battles, fulfill favors for friends, and unlock new abilities to slay your aquatic adversaries as you navigate the seas of Azerim. Explore the waves above and treasures below with your ship\u2019s trusty sail and magnetic hook to effortlessly dredge the fishy ocean floor.<br><br>You know\u2014it\u2019s a Nice Day for Fishing, isn\u2019t it?<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><em><strong>Keys expire. Please redeem your key before August 3rd, 2026.</strong></em></span></span>"
+        },
+        "delivery_methods": [
+          "steam"
+        ],
+        "description": "<p>\n <span>\n  <img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393160/extras/e9fb345dda5f969fbc7834703ee36322.avif?t=1762781355\">\n </span>\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393160/extras/766f004e37ecea6d6ff4f22fe7247d09.avif?t=1762781355\">\n </span>\n</p>\n<strong class=\"hmb\">\n <br>\n <br>\n An epic tale of fantasy,  adventure and\u2026 fishing?\n</strong>\n<br>\n<p>\n When the heroes of Azerim mysteriously vanish, an evil force threatens to take over the lands! Baelin the fisherman NPC must rise up to defend the town of Honeywood the only way he knows how! However, something's different... Baelin's no longer an NPC but... an Adventurer! Can you handle your new found responsibility?! Battle fish with precision timing and magic spells, upgrade your abilities, defeat evil and rebuild Honeywood.\n</p>\n<p>\n Morning! <i>Nice day for fishing</i> ain\u2019t it!\n</p>\n<p>\n</p>\n<strong class=\"hmb\">\n <br>\n <br>\n</strong>\n<br>\n<p>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393160/extras/8a6b7e882341c2fe27a5c9e7dbcccca5.webm?t=1762781355\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393160/extras/8a6b7e882341c2fe27a5c9e7dbcccca5.mp4?t=1762781355\">\n  </video>\n </span>\n</p>\n<p>\n Engage in fearless fishing battles to fulfil quests, increase your strength and unlock spells to use against your aquatic adversaries. Equip the right bait for your catch, and time your attacks perfectly to ensure flawless victory. Be wary of the boss fish looming in the deep, who will truly test your skills.\n</p>\n<p>\n</p>\n<strong class=\"hmb\">\n <br>\n <br>\n</strong>\n<br>\n<p>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393160/extras/9a15de40492cce5e13043b7a4ddbef78.webm?t=1762781355\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393160/extras/9a15de40492cce5e13043b7a4ddbef78.mp4?t=1762781355\">\n  </video>\n </span>\n</p>\n<p>\n Explore the enchanting lands of Azerim above land and beneath the waves. Adventure through Honeywood forest to the Azerim coast where you'll encounter new quests, people to save and new fish to catch. Navigate the pull of the underwater currents to move your hook into hard to reach caves and upgrade your fishing line to delve deeper into the abyss.\n</p>\n<p>\n</p>\n<strong class=\"hmb\">\n <br>\n <br>\n</strong>\n<br>\n<p>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393160/extras/d8322aba8faff0c770b6cf46ad4081b4.webm?t=1762781355\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393160/extras/d8322aba8faff0c770b6cf46ad4081b4.mp4?t=1762781355\">\n  </video>\n </span>\n</p>\n<p>\n Every Adventurer deserves the ultimate tools for their quest. Although Baelin may be a humble fisherman, as an Adventurer his rod is his weapon, his boat is his steed and his hat is his armour, so make sure you've equipped the right one for the job! Effortlessly dredge hidden treasures from the deep with the magnet hook, or break through cavern walls with the powerful drill to unlock new pathways. Enhance your fishing rod to increase your strength and upgrade your lines to go further into the depths to target the formidable and challenging fish that swim in the shadows.\n</p>\n<p>\n</p>\n<strong class=\"hmb\">\n <br>\n <br>\n</strong>\n<br>\n<p>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393160/extras/6caac6db98aa38ef900d897affd19f35.webm?t=1762781355\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393160/extras/6caac6db98aa38ef900d897affd19f35.mp4?t=1762781355\">\n  </video>\n </span>\n</p>\n<p>\n While on your adventures, you\u2019ll find valuable resources to dredge from shipwrecks that have succumbed to the sea, which can be used to rebuild the destroyed village. Enlist help from the Woodcutter to bring Honeywood back to its former glory. Each building upgrade unlocks more equipment and quests from the merchants.\n</p>\n<p>\n</p>\n<strong class=\"hmb\">\n <br>\n <br>\n</strong>\n<br>\n<p>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393160/extras/1e682e7bd9a5df8829a4be35e088fa8a.webm?t=1762781355\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393160/extras/1e682e7bd9a5df8829a4be35e088fa8a.mp4?t=1762781355\">\n  </video>\n </span>\n</p>\n<p>\n Prove yourself worthy to the mighty fishing God by offering completed collections from each region at his statue, and receive your blessings of upgraded skills.\n</p>\n<p>\n</p>\n<p>\n Officially licensed by: Viva La Dirt League\n</p>\n<p>\n <span>\n  <img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393160/extras/1da2a640ed3c8263a0c606737aac8676.avif?t=1762781355\">\n </span>\n</p>",
+        "title": "Nice Day for Fishing",
+        "carousel_content": {
+          "youtube-link": [
+            "nIAMFyAezGU",
+            "xYpB1Lf6MzI",
+            "VtgoACJC8Vw",
+            "vnQFtIiQDuE"
+          ],
+          "thumbnails": [
+            "https://hb.imgix.net/006ab95a7067d98af825b5d84357900046d2848f.jpg?auto=compress,format&fit=crop&h=122&w=218&s=2d5aac2a8efa6f2613c46a71c1ab8f49",
+            "https://hb.imgix.net/2641ce3eae0002086fc7b210802296948fb8f5c7.jpg?auto=compress,format&fit=crop&h=122&w=218&s=de986f7e29b6160fd6055adf4902c045",
+            "https://hb.imgix.net/c6102456d7be03bbcf7e0f162a574c906dfd6ff0.jpg?auto=compress,format&fit=crop&h=122&w=218&s=c7938f2ed1b05d8dd5134e8889f800b1",
+            "https://hb.imgix.net/c976705b83d31733490bb64081e18e56d9871bcf.jpg?auto=compress,format&fit=crop&h=122&w=218&s=b083e6bcafd479c13e632a1dbf579977",
+            "https://hb.imgix.net/2d457ef34b05adcd75adeab20e103c3ce7ea4d14.jpg?auto=compress,format&fit=crop&h=122&w=218&s=8a5f98fe13f049bcc2cb4002ab5af1ad",
+            "https://hb.imgix.net/8c1562da98e4a496c5440d26f7bd02ae891fd02e.jpg?auto=compress,format&fit=crop&h=122&w=218&s=001cc2c73ef1d335bd08a5b0a7960df3",
+            "https://hb.imgix.net/15fae38034e5bffc849200f5b5f79a0a606074db.jpg?auto=compress,format&fit=crop&h=122&w=218&s=e79beee48d08939f666ff2031a2aa449",
+            "https://hb.imgix.net/eb72b818f620c4f700cda3ffc1e13e0d20a366e9.jpg?auto=compress,format&fit=crop&h=122&w=218&s=562185b221451c03f17df61edba0ff9d",
+            "https://hb.imgix.net/7f3cb022acdd521fa197d3c964c7288e553006f6.jpg?auto=compress,format&fit=crop&h=122&w=218&s=39b08aea072127d1bda24b842dffd40a",
+            "https://hb.imgix.net/71e07dff3da12f240cb44382c02a74f7a1331964.jpg?auto=compress,format&fit=crop&h=122&w=218&s=c9af0cc655c0efe2d853e6f9de7b6b9b",
+            "https://hb.imgix.net/4baf8ca5fbdd4845c49aa200fb84a5db24429f7c.jpg?auto=compress,format&fit=crop&h=122&w=218&s=9a0777182d0dc9b15b7cc54d4ecba893",
+            "https://hb.imgix.net/852bc3c14fdbb6c613a69bc53f389a16f86a07c3.jpg?auto=compress,format&fit=crop&h=122&w=218&s=7a6fd0c3d3a05fdf48100db85d3657a0",
+            "https://hb.imgix.net/6549847858eac865b0612c0c5fa8d5de9cab2386.jpg?auto=compress,format&fit=crop&h=122&w=218&s=9cbf88607f64f8f3cf0594944b175703",
+            "https://hb.imgix.net/d9fe65c0ce849b50f251d2ea0863a4144b39882c.jpg?auto=compress,format&fit=crop&h=122&w=218&s=b574c47ca010aee5bf83e9e75c68a126",
+            "https://hb.imgix.net/30463c5f902eec44f0691fac07944cec5ff3ab2c.jpg?auto=compress,format&fit=crop&h=122&w=218&s=8abb4882472d7c794f8f04975a15cb00",
+            "https://hb.imgix.net/d568f050ba55c00a3929deeb721ff04cd30fe744.jpg?auto=compress,format&fit=crop&h=122&w=218&s=76731e5747cc19297fd48f6ac5586cf7"
+          ],
+          "screenshot": [
+            "https://hb.imgix.net/006ab95a7067d98af825b5d84357900046d2848f.jpg?auto=compress,format&fit=crop&h=425&w=741&s=418a527cbfa82f4b79aeea5dd365c08e",
+            "https://hb.imgix.net/2641ce3eae0002086fc7b210802296948fb8f5c7.jpg?auto=compress,format&fit=crop&h=425&w=741&s=2570325407f3497e4d065bf607781df4",
+            "https://hb.imgix.net/c6102456d7be03bbcf7e0f162a574c906dfd6ff0.jpg?auto=compress,format&fit=crop&h=425&w=741&s=5bc7d1fc66f9f4d6ac14d537d425e364",
+            "https://hb.imgix.net/c976705b83d31733490bb64081e18e56d9871bcf.jpg?auto=compress,format&fit=crop&h=425&w=741&s=00ba22e4b2a8a5e0663e190792a8729a",
+            "https://hb.imgix.net/2d457ef34b05adcd75adeab20e103c3ce7ea4d14.jpg?auto=compress,format&fit=crop&h=425&w=741&s=295c2274a8ecb68d5b9d47ec37bac182",
+            "https://hb.imgix.net/8c1562da98e4a496c5440d26f7bd02ae891fd02e.jpg?auto=compress,format&fit=crop&h=425&w=741&s=8701ea5f5761a8fb8758271a6952002d",
+            "https://hb.imgix.net/15fae38034e5bffc849200f5b5f79a0a606074db.jpg?auto=compress,format&fit=crop&h=425&w=741&s=1499bfcb578cb64f2cb36f575e9ffc56",
+            "https://hb.imgix.net/eb72b818f620c4f700cda3ffc1e13e0d20a366e9.jpg?auto=compress,format&fit=crop&h=425&w=741&s=d7cba05bd2fa0da4a7fd5ca38104d315",
+            "https://hb.imgix.net/7f3cb022acdd521fa197d3c964c7288e553006f6.jpg?auto=compress,format&fit=crop&h=425&w=741&s=a17afa5e271af3235ebef523b1e88f44",
+            "https://hb.imgix.net/71e07dff3da12f240cb44382c02a74f7a1331964.jpg?auto=compress,format&fit=crop&h=425&w=741&s=2961c51d4e0a50eefa4d1eba129c6cfe",
+            "https://hb.imgix.net/4baf8ca5fbdd4845c49aa200fb84a5db24429f7c.jpg?auto=compress,format&fit=crop&h=425&w=741&s=5991ad259a588f5b313be1aea8422ad5",
+            "https://hb.imgix.net/852bc3c14fdbb6c613a69bc53f389a16f86a07c3.jpg?auto=compress,format&fit=crop&h=425&w=741&s=56de211ebcef44fa99eb07918729142e",
+            "https://hb.imgix.net/6549847858eac865b0612c0c5fa8d5de9cab2386.jpg?auto=compress,format&fit=crop&h=425&w=741&s=cccf225eb91c240ee77a282ff1c15a8f",
+            "https://hb.imgix.net/d9fe65c0ce849b50f251d2ea0863a4144b39882c.jpg?auto=compress,format&fit=crop&h=425&w=741&s=69c2bb2e078b1505c6abaa65a660a558",
+            "https://hb.imgix.net/30463c5f902eec44f0691fac07944cec5ff3ab2c.jpg?auto=compress,format&fit=crop&h=425&w=741&s=fde025bc4d203b9d152c17e67749a71e",
+            "https://hb.imgix.net/d568f050ba55c00a3929deeb721ff04cd30fe744.jpg?auto=compress,format&fit=crop&h=425&w=741&s=1baef5e09c5f46bf0627eadd6db2fdca"
+          ]
+        },
+        "image": "https://hb.imgix.net/ecac42fe42f0c0c71b4818add4937bcdb82c0863.png?auto=compress,format&fit=clip&h=383&w=667&s=f1c30d9f24f1c99c04906f6303138d19",
+        "display_item_machine_name": "nicedayforfishing",
+        "tpkds": [
+          {
+            "machine_name": "nicedayforfishing_choice_steam",
+            "custom_instructions_html": "<p><div style=\"text-align: center;\"><span style=\"color: #1695df;\"><strong>Must be redeemed by August 3rd, 2026 by 10:00 AM Pacific Time.</strong></span></div><p>",
+            "show_custom_instructions_in_user_libraries": false,
+            "key_type": "steam",
+            "visible": true,
+            "sold_out": false,
+            "is_partial_gift": false,
+            "display_separately": false,
+            "steam_app_id": 2393160,
+            "exclusive_countries": [],
+            "class": "steambutton",
+            "num_days_until_expired": 205,
+            "gamekey": null,
+            "expiration_date|datetime": "2026-08-03T17:00:00",
+            "disallowed_countries": [],
+            "direct_redeem": false,
+            "instructions_html": "<a href='https://support.humblebundle.com/hc/articles/204008710-How-To-Redeem-Steam-Keys' target='_blank'>Steam Instructions</a>",
+            "key_type_human_name": "Steam",
+            "human_name": "Nice Day for Fishing",
+            "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
+            "auto_expand": true,
+            "is_expired": false,
+            "partial_gift_enabled": true,
+            "disclaimer": "Steam will not provide extra giftable copies of games you already own."
+          }
+        ],
+        "user_rating": {
+          "steam_percent|decimal": 0.89,
+          "display_user_ratings": "steam_overall",
+          "review_text": "very_positive",
+          "steam_count": 1796
+        },
+        "platforms": [
+          "windows"
+        ],
+        "more_information": null,
+        "msrp|money": {
+          "currency": "USD",
+          "amount": 19.99
+        },
+        "developers": [
+          "FusionPlay"
+        ],
+        "system_requirements": "<b>Minimum:</b><br><br><b><u>Windows</u></b><br><strong>OS:</strong> Windows 10<br><strong>Processor:</strong> Intel Core i5-650 or AMD Phenom II X4 965<br><strong>Memory:</strong> 8 GB RAM<br><strong>Graphics:</strong> NVIDIA GeForce GTX 460, 1 GB or AMD Radeon HD 5870, 2 GB<br><strong>DirectX:</strong> Version 10<br><br><b>Recommended:</b><br><br><b><u>Windows</u></b><br><strong>OS:</strong> Windows 10/11<br><strong>Processor:</strong> Intel Core i5-2400 or AMD AMD FX-4350<br><strong>Memory:</strong> 8 GB RAM<br><strong>Graphics:</strong> NVIDIA GeForce GTX 750, 1 GB or AMD Radeon R7 360, 2 GB<br><strong>DirectX:</strong> Version 11<br><br><b>Supported Languages:</b> English, French, German, Spanish - Spain, Simplified Chinese",
+        "genres": [
+          "Adventure",
+          "RPG"
+        ]
+      },
+      "sonicfrontiers": {
+        "recommendation_copy_dict": {
+          "copy": "Sonic Frontiers sets the standard for 3D adventures starring everyone\u2019s favorite chili dog-eating hedgehog. Step into the iconic red shoes of Sonic as he harnesses the power of the Ancients and races to save a far-off ancient civilization from menacing futuristic robots across five unique Starfall Islands. Each island offers new challenges for you to outmaneuver at breakneck speeds\u2014whip up sand in a sizzling desert, weave through dense forests, and more\u2014as you collect rings, solve puzzles, and discover secrets! Sonic Frontiers harnesses the unmatched feeling of speed that fans of the series love and expect\u2014welcome to the next evolution of Sonic!<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><em><strong>Keys expire. Please redeem your key before February 3rd, 2027.</strong></em></span></span>"
+        },
+        "delivery_methods": [
+          "steam"
+        ],
+        "description": "<strong class=\"hmb\">Experience Sonic like never before! </strong> <br><br>Worlds are colliding in Sonic the Hedgehog\u2019s newest high-speed adventure! In search of the missing Chaos emeralds, Sonic becomes stranded on an ancient island teeming with unusual creatures. Battle hordes of powerful enemies as you explore a breathtaking world of action, adventure, and mystery. Accelerate to new heights and experience the thrill of high-velocity, open-zone platforming freedom as you race across the five massive Starfall Islands. Jump into adventure, wield the power of the Ancients, and fight to stop these new mysterious foes. Welcome to the evolution of Sonic games! <strong class=\"hmb\"> <br></strong><br>Experience All-New Open Zone Platforming <br><br>Race across five massive overworld islands, each with their own unique action-platforming challenges and hidden secrets to uncover. <br><strong> Experience All-New Open Zone Platforming </strong> <br>Race across five massive overworld islands brimming with dense forests, overflowing waterfalls, and sizzling desert landscapes, each with their own unique action-platforming challenges and hidden secrets to uncover. <br><br><strong> Unparalleled High-Speed Freedom </strong> <br>Adventure across the Starfall Islands and see what each has to offer at the speed only Sonic can deliver. Blaze a trail as you see fit and discover side quests, solve puzzles, scale enormous structures, go fishing, and encounter a friendly face or two along the way\u2026 <br><br><strong> Challenge Yourself In Cyber Space </strong> <br>Discover portals scattered across the island and venture into Cyber Space levels through portals scattered across the islands featuring signature 3D platforming at Sonic speeds, packed with challenges to put your skills to the test. <br><br><strong> Cyber-Powered Combat </strong> <br>The Starfall Islands are home to strange creatures Sonic has never encountered before. Use the all-new battle system and skill tree upgrades to fight strategically, combining moves such as dodges, parries, counters, combos, and the new Cyloop ability to take down mysterious foes and colossal titans. <br><br><strong> A New Adventure Full of Mystery and Intrigue </strong> <br>Become Sonic and journey to uncover the mysteries of the remains of an ancient civilization plagued by robotic hordes. With nothing but a handful of questions and a disembodied voice to guide you, set out to save your friends and the enigmatic inhabitants of the Starfall Islands from a colossal, mechanized threat. <br><br><br>This game may be updated over time, and have paid for and free additional content released for it. Please be aware that this may increase the minimum requirements for running the game above the specification stated below.",
+        "title": "Sonic Frontiers",
+        "carousel_content": {
+          "youtube-link": [
+            "HV3vQiD9y-E",
+            "xqTPatBH16s"
+          ],
+          "thumbnails": [
+            "https://hb.imgix.net/f1f52a0d2e0aa0d2ad50e91048f6f222b3a33c16.jpg?auto=compress,format&fit=crop&h=122&w=218&s=929f8e27b0223f6224f4731135a2e9c6",
+            "https://hb.imgix.net/3b2093ee14b951c3c4135ec8579ce1e1b32e33a8.jpg?auto=compress,format&fit=crop&h=122&w=218&s=8fb9b0bf230ec30469561d1ad8a42a32",
+            "https://hb.imgix.net/98ad4ba14d71c2fc480ddb13372f4eb341aeb41b.jpg?auto=compress,format&fit=crop&h=122&w=218&s=d0ea9f0ba24f39606336b0c69bdb31b4",
+            "https://hb.imgix.net/3c644042c741794e53fa5e2bf7e7a507835a6f9e.jpg?auto=compress,format&fit=crop&h=122&w=218&s=4cc26335643c8ce62787bc1da93365c7",
+            "https://hb.imgix.net/8a1b6c6d1ab14e328cdaa41558492d84113ba73a.jpg?auto=compress,format&fit=crop&h=122&w=218&s=30d40633510e5bffafeb03dc1b605f2d",
+            "https://hb.imgix.net/a465fb3f69c68309eae227732fd497b9a04b67c5.jpg?auto=compress,format&fit=crop&h=122&w=218&s=b92315c464115081767d5a5f1981c463",
+            "https://hb.imgix.net/b353251cf1043ca5175eb7a802de33ac342c8bb5.jpg?auto=compress,format&fit=crop&h=122&w=218&s=f27e0d9b58344bb80ad96c426805bd1a",
+            "https://hb.imgix.net/30b4a6bf3366fec782beb0661b2452a025761652.jpg?auto=compress,format&fit=crop&h=122&w=218&s=75bc1972ee07c4949b842f39e5a4ff7c"
+          ],
+          "screenshot": [
+            "https://hb.imgix.net/f1f52a0d2e0aa0d2ad50e91048f6f222b3a33c16.jpg?auto=compress,format&fit=crop&h=425&w=741&s=e560986deff3b7a08f249e1278d01758",
+            "https://hb.imgix.net/3b2093ee14b951c3c4135ec8579ce1e1b32e33a8.jpg?auto=compress,format&fit=crop&h=425&w=741&s=5902f024412e0220953b9553d389808c",
+            "https://hb.imgix.net/98ad4ba14d71c2fc480ddb13372f4eb341aeb41b.jpg?auto=compress,format&fit=crop&h=425&w=741&s=6253fa8b9646ef24f3faef36c39e40ff",
+            "https://hb.imgix.net/3c644042c741794e53fa5e2bf7e7a507835a6f9e.jpg?auto=compress,format&fit=crop&h=425&w=741&s=e74c521c5774e4a495cec522f32d66ac",
+            "https://hb.imgix.net/8a1b6c6d1ab14e328cdaa41558492d84113ba73a.jpg?auto=compress,format&fit=crop&h=425&w=741&s=d86c0af0840d4f9729203b26a56b7c5f",
+            "https://hb.imgix.net/a465fb3f69c68309eae227732fd497b9a04b67c5.jpg?auto=compress,format&fit=crop&h=425&w=741&s=1ff3bbcd9a6a633d5b0c6ce9d0c75d3f",
+            "https://hb.imgix.net/b353251cf1043ca5175eb7a802de33ac342c8bb5.jpg?auto=compress,format&fit=crop&h=425&w=741&s=963ecf37b25928ddb20e06f1972954f7",
+            "https://hb.imgix.net/30b4a6bf3366fec782beb0661b2452a025761652.jpg?auto=compress,format&fit=crop&h=425&w=741&s=6fce16003b74b99c726db395d9c031e6"
+          ]
+        },
+        "image": "https://hb.imgix.net/a9588faa19a137f2e9762e833053609529efa7ab.jpg?auto=compress,format&fit=clip&h=383&w=667&s=fadbabaa168542c341db3d1077a5898b",
+        "display_item_machine_name": "sonicfrontiers",
+        "tpkds": [
+          {
+            "machine_name": "sonicfrontiers_row_choice_steam",
+            "custom_instructions_html": "<p><div style=\"text-align: center;\"><span style=\"color: #1695df;\"><strong>Must be redeemed by February 3rd, 2027 by 10:00 AM Pacific Time.</strong></span></div><p>",
+            "show_custom_instructions_in_user_libraries": false,
+            "key_type": "steam",
+            "visible": true,
+            "sold_out": false,
+            "is_partial_gift": false,
+            "display_separately": false,
+            "steam_app_id": 1237320,
+            "exclusive_countries": [],
+            "class": "steambutton",
+            "num_days_until_expired": 389,
+            "gamekey": null,
+            "expiration_date|datetime": "2027-02-03T18:00:00",
+            "disallowed_countries": [
+              "AD",
+              "AL",
+              "AM",
+              "AR",
+              "AT",
+              "AX",
+              "AZ",
+              "BA",
+              "BE",
+              "BG",
+              "BO",
+              "BR",
+              "BV",
+              "BY",
+              "BZ",
+              "CH",
+              "CL",
+              "CN",
+              "CO",
+              "CR",
+              "CY",
+              "CZ",
+              "DE",
+              "DK",
+              "EC",
+              "EE",
+              "ES",
+              "FI",
+              "FK",
+              "FO",
+              "FR",
+              "GB",
+              "GE",
+              "GF",
+              "GG",
+              "GI",
+              "GL",
+              "GP",
+              "GR",
+              "GS",
+              "GT",
+              "GY",
+              "HK",
+              "HN",
+              "HR",
+              "HU",
+              "IE",
+              "IM",
+              "IS",
+              "IT",
+              "JE",
+              "JP",
+              "KG",
+              "KR",
+              "KZ",
+              "LI",
+              "LT",
+              "LU",
+              "LV",
+              "MC",
+              "MD",
+              "ME",
+              "MF",
+              "MK",
+              "MO",
+              "MQ",
+              "MT",
+              "MX",
+              "NC",
+              "NI",
+              "NL",
+              "NO",
+              "PA",
+              "PE",
+              "PF",
+              "PL",
+              "PT",
+              "PY",
+              "RE",
+              "RO",
+              "RS",
+              "RU",
+              "SE",
+              "SI",
+              "SK",
+              "SM",
+              "SR",
+              "SV",
+              "TJ",
+              "TM",
+              "TW",
+              "UA",
+              "UY",
+              "UZ",
+              "VA",
+              "VE",
+              "XK",
+              "YT"
+            ],
+            "direct_redeem": false,
+            "instructions_html": "<a href='https://support.humblebundle.com/hc/articles/204008710-How-To-Redeem-Steam-Keys' target='_blank'>Steam Instructions</a>",
+            "key_type_human_name": "Steam",
+            "human_name": "Sonic Frontiers",
+            "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
+            "auto_expand": true,
+            "is_expired": false,
+            "partial_gift_enabled": true,
+            "disclaimer": "Steam will not provide extra giftable copies of games you already own."
+          }
+        ],
+        "user_rating": {
+          "steam_percent|decimal": 0.9,
+          "display_user_ratings": "steam_overall",
+          "review_text": "very_positive",
+          "steam_count": 15131
+        },
+        "platforms": [
+          "windows"
+        ],
+        "more_information": null,
+        "msrp|money": {
+          "currency": "USD",
+          "amount": 59.99
+        },
+        "developers": [
+          "Sonic Team"
+        ],
+        "system_requirements": "<b>Minimum:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 10<br><strong>Processor:</strong> Intel Core i5-3470 or AMD Ryzen 5 1400<br><strong>Memory:</strong> 8 GB RAM<br><strong>Graphics:</strong> NVIDIA GeForce GTX 660, 2 GB or AMD Radeon HD 7870, 2 GB<br><strong>DirectX:</strong> Version 11<br><strong>Storage:</strong> 30 GB available space<br><strong>Additional Notes:</strong> 720p Low @ 30 FPS. Requires a CPU which supports the AVX and SSE4 instruction set. Microsoft no longer supports Windows 10 or older versions<br><br><b>Recommended:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 10<br><strong>Processor:</strong> Intel Core i5-6600 or AMD Ryzen 5 2600<br><strong>Memory:</strong> 12 GB RAM<br><strong>Graphics:</strong> NVIDIA GeForce GTX 1070, 8 GB or AMD Radeon RX Vega 56, 8 GB<br><strong>DirectX:</strong> Version 11<br><strong>Storage:</strong> 30 GB available space<br><strong>Additional Notes:</strong> 1080p High @ 60 FPS. Requires a CPU which supports the AVX and SSE4 instruction set. Microsoft no longer supports Windows 10 or older versions<br><br><b>Supported Languages:</b> English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Polish, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean",
+        "genres": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      "etrianodysseyiihd": {
+        "recommendation_copy_dict": {
+          "copy": "Etrian Odyssey II HD is a remaster that drops players into the gorgeous 2.5D realm of Lagaard and blends traditional turn-based RPG combat with addictive dungeon-crawler mechanics to deliver an experience unlike any other. Assemble your party of memorable characters and venture up the Yggdrasil Tree to unravel the dark magic that plagues these mystical lands.<br><br>Enlist the right mix of job classes for your team to maximize your playstyle and gain new skills. Document your legendary battles and plan your next attacks with the improved Monstrous Codex\u2014a living encyclopedia that logs important enemy information. Revisit Etrian Odyssey II with this faithful HD remaster or dive in for the first time today.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><em><strong>Keys expire. Please redeem your key before February 3rd, 2027.</strong></em></span></span>"
+        },
+        "delivery_methods": [
+          "steam"
+        ],
+        "description": "<i>Etrian Odyssey II HD</i> rebirths the timeless adventure of the mysterious floating castle. <br><br>When civilization sunk beneath the seven seas, deep forests spread across the five remaining islands. <br><br>Only the chosen ones escaped the waters in their castle stronghold. Eventually, the waves overtook even the last five islands...And the castle was all that remained. After the passing of ages, the people of the floating castle have chosen to descend upon their mother soil. <br><br>Build your own party from twelve different classes of heroes and climb through the Yggdrasil tree to reach the clouds and uncover the truth of High Lagaard. <br><br><i>Etrian Odyssey II HD</i> Features: <br>\n<ul>\n<li>Newly remastered graphics, remastered soundtrack and quality of life improvements, including difficulty selection and save slots</li>\n<li>Easy access to the Monstrous Codex, quest log and skill tree</li>\n<li>Maximize your adventuring by optimizing your party, and choose the character classes that work for your playstyle</li>\n</ul>",
+        "title": "Etrian Odyssey II HD",
+        "carousel_content": {
+          "youtube-link": [
+            "Ww98GxOGzi8"
+          ],
+          "thumbnails": [
+            "https://hb.imgix.net/404785f23ce31c7a214adfa1c58c0afb959b10ca.jpg?auto=compress,format&fit=crop&h=122&w=218&s=d8e595d0bead16159f94dd26d3c6f871",
+            "https://hb.imgix.net/8d772dbb2cee3bbb2a0c8216e54bc7ace30366fb.jpg?auto=compress,format&fit=crop&h=122&w=218&s=0bcd22c0ad8576697ba504adec268e73",
+            "https://hb.imgix.net/be3feab71a26a89c28b77bda4843de01adc65f85.jpg?auto=compress,format&fit=crop&h=122&w=218&s=7e1bd05d5f86581a2cba981bdebd0c3f",
+            "https://hb.imgix.net/881621ea39b063a8cac78c85240204f16abca03d.jpg?auto=compress,format&fit=crop&h=122&w=218&s=a8521e734ab22dc32b58c8b3599e3e74",
+            "https://hb.imgix.net/63f5fe0ecb017b25c15338ec8a9cf4ab454f3d53.jpg?auto=compress,format&fit=crop&h=122&w=218&s=e7aa38d109247143368dc561fb73be41"
+          ],
+          "screenshot": [
+            "https://hb.imgix.net/404785f23ce31c7a214adfa1c58c0afb959b10ca.jpg?auto=compress,format&fit=crop&h=425&w=741&s=691c15cbdcff4543dc2ab961aae2521e",
+            "https://hb.imgix.net/8d772dbb2cee3bbb2a0c8216e54bc7ace30366fb.jpg?auto=compress,format&fit=crop&h=425&w=741&s=dfb7ae75ee5e41606d31677ebe1e7ba9",
+            "https://hb.imgix.net/be3feab71a26a89c28b77bda4843de01adc65f85.jpg?auto=compress,format&fit=crop&h=425&w=741&s=26426850f76d6912240f9fc8fe7f8f50",
+            "https://hb.imgix.net/881621ea39b063a8cac78c85240204f16abca03d.jpg?auto=compress,format&fit=crop&h=425&w=741&s=2d7feb17c78b8cd049e7b1cc4e49324e",
+            "https://hb.imgix.net/63f5fe0ecb017b25c15338ec8a9cf4ab454f3d53.jpg?auto=compress,format&fit=crop&h=425&w=741&s=6bed348c9877c43dee07348d8689fbba"
+          ]
+        },
+        "image": "https://hb.imgix.net/ea8cb30b44abcabd8b9b49aa0ec10735feb75bcb.jpg?auto=compress,format&fit=clip&h=383&w=667&s=4736852b21853c25775aa15d8bf2a40d",
+        "display_item_machine_name": "etrianodysseyiihd",
+        "tpkds": [
+          {
+            "machine_name": "etrianodysseyiihd_row_choice_steam",
+            "custom_instructions_html": "<p><div style=\"text-align: center;\"><span style=\"color: #1695df;\"><strong>Must be redeemed by February 3rd, 2027 by 10:00 AM Pacific Time.</strong></span></div><p>",
+            "show_custom_instructions_in_user_libraries": false,
+            "key_type": "steam",
+            "visible": true,
+            "sold_out": false,
+            "is_partial_gift": false,
+            "display_separately": false,
+            "steam_app_id": 1868170,
+            "exclusive_countries": [],
+            "class": "steambutton",
+            "num_days_until_expired": 389,
+            "gamekey": null,
+            "expiration_date|datetime": "2027-02-03T18:00:00",
+            "disallowed_countries": [
+              "AD",
+              "AL",
+              "AM",
+              "AR",
+              "AT",
+              "AX",
+              "AZ",
+              "BA",
+              "BE",
+              "BG",
+              "BO",
+              "BR",
+              "BV",
+              "BY",
+              "BZ",
+              "CH",
+              "CL",
+              "CN",
+              "CO",
+              "CR",
+              "CY",
+              "CZ",
+              "DE",
+              "DK",
+              "EC",
+              "EE",
+              "ES",
+              "FI",
+              "FK",
+              "FO",
+              "FR",
+              "GB",
+              "GE",
+              "GF",
+              "GG",
+              "GI",
+              "GL",
+              "GP",
+              "GR",
+              "GS",
+              "GT",
+              "GY",
+              "HK",
+              "HN",
+              "HR",
+              "HU",
+              "IE",
+              "IM",
+              "IS",
+              "IT",
+              "JE",
+              "JP",
+              "KG",
+              "KR",
+              "KZ",
+              "LI",
+              "LT",
+              "LU",
+              "LV",
+              "MC",
+              "MD",
+              "ME",
+              "MF",
+              "MK",
+              "MO",
+              "MQ",
+              "MT",
+              "MX",
+              "NC",
+              "NI",
+              "NL",
+              "NO",
+              "PA",
+              "PE",
+              "PF",
+              "PL",
+              "PT",
+              "PY",
+              "RE",
+              "RO",
+              "RS",
+              "RU",
+              "SE",
+              "SI",
+              "SK",
+              "SM",
+              "SR",
+              "SV",
+              "TJ",
+              "TM",
+              "TW",
+              "UA",
+              "UY",
+              "UZ",
+              "VA",
+              "VE",
+              "XK",
+              "YT"
+            ],
+            "direct_redeem": false,
+            "instructions_html": "<a href='https://support.humblebundle.com/hc/articles/204008710-How-To-Redeem-Steam-Keys' target='_blank'>Steam Instructions</a>",
+            "key_type_human_name": "Steam",
+            "human_name": "Etrian Odyssey 2",
+            "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
+            "auto_expand": true,
+            "is_expired": false,
+            "partial_gift_enabled": true,
+            "disclaimer": "Steam will not provide extra giftable copies of games you already own."
+          }
+        ],
+        "user_rating": {
+          "steam_percent|decimal": 0.81,
+          "display_user_ratings": "steam_overall",
+          "review_text": "very_positive",
+          "steam_count": 212
+        },
+        "platforms": [
+          "windows"
+        ],
+        "more_information": null,
+        "msrp|money": {
+          "currency": "USD",
+          "amount": 39.99
+        },
+        "developers": [
+          "ATLUS"
+        ],
+        "system_requirements": "<strong>Minimum System Requirements</strong> <br><em>Windows OS Version</em> Windows 10<br><em>Processor</em> Intel Core i3-540 or AMD Phenom II X3 720<br><em>Memory</em> 4 GB RAM<br><em>Graphics</em> NVIDIA GeForce GT 530, 1 GB or AMD Radeon HD 5570, 1 GB or Intel HD Graphics 4400<br><em>DirectX Version</em> Version 11<br><em>Disk Space</em> 3GB<br><em>Sound Card</em> [No recommendation]<br><em>Additional Notes</em> No anti-aliasing, 720p @ 60 FPS<br><br><strong>Recommended System Requirements</strong> <br><em>Windows OS Version</em> Windows 10<br><em>Processo</em>r Intel Core i3-2100 or AMD Phenom II X4 965<br><em>Memory</em> 4 GB RAM<br><em>Graphics</em> NVIDIA GeForce GTX 550 Ti, 1 GB or AMD Radeon HD 5770, 1 GB or Intel Iris Xe Graphics<br><em>DirectX Version</em> Version 11<br><em>Disk Space</em> 3GB<br><em>Sound Card</em> [No recommendation]<br><em>Additional Notes</em> 4x AA, 1080p @ 60 FPS<br><br><strong>4K Recommended System Requirements</strong> <br><em>Windows OS Version</em> Windows 10<br><em>Processor</em> Intel Core i7-4770 or AMD Ryzen 5 1400<br><em>Memory</em> 8 GB RAM<br><em>Graphics</em> NVIDIA GeForce GTX 780, 3 GB or AMD Radeon R9 380X, 3 GB<br><em>DirectX</em> Version Version 11<br><em>Disk Space</em> 3GB<br><em>Sound Card</em> [No recommendation]<br><em>Additional Notes</em> 8x AA, 2160p @ 120 FPS",
+        "genres": [
+          "Adventure",
+          "RPG"
+        ]
+      },
+      "ignplus_choicecoupon_2025": {
+        "recommendation_copy_dict": {
+          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before February 3rd, 2026.</strong></span></span><br></em></p>"
+        },
+        "delivery_methods": [
+          "other-key"
+        ],
+        "description": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.</em></p>",
+        "title": "Get One Month of IGN Plus",
+        "carousel_content": {
+          "youtube-link": [
+            "hcAgU2CR1y8"
+          ],
+          "thumbnails": [
+            "https://hb.imgix.net/ec8dadbe675051c318942bae4a3bc9533973dfb7.png?auto=compress,format&fit=crop&h=122&w=218&s=89b61d8c3c7883dd231e5a1d64c19d7d",
+            "https://hb.imgix.net/d3d841028cc27f9c74ca751bd9ffccbc7e7b37cd.png?auto=compress,format&fit=crop&h=122&w=218&s=20772db5ed3664598f4062154dbb1a72",
+            "https://hb.imgix.net/e875b469dc37658ace7a24e8612d077ca7299595.png?auto=compress,format&fit=crop&h=122&w=218&s=2879881a25dbc077348b294b0dd9029f"
+          ],
+          "screenshot": [
+            "https://hb.imgix.net/ec8dadbe675051c318942bae4a3bc9533973dfb7.png?auto=compress,format&fit=crop&h=425&w=741&s=40a5c6acd82eb1b973298d1f01cadd0a",
+            "https://hb.imgix.net/d3d841028cc27f9c74ca751bd9ffccbc7e7b37cd.png?auto=compress,format&fit=crop&h=425&w=741&s=d7e813230b8f2f587cef49db886ddee0",
+            "https://hb.imgix.net/e875b469dc37658ace7a24e8612d077ca7299595.png?auto=compress,format&fit=crop&h=425&w=741&s=2737914b232e873a5f7d2f9dae5b7e80"
+          ]
+        },
+        "image": "https://hb.imgix.net/e875b469dc37658ace7a24e8612d077ca7299595.png?auto=compress,format&fit=clip&h=383&w=667&s=c4266c3de034eb3ad8b49f9bfcf03fa5",
+        "display_item_machine_name": "ignplus_choicecoupon_2025",
+        "tpkds": [
+          {
+            "exclusive_countries": [],
+            "machine_name": "ignplus_jan_choicecoupon_2026",
+            "gamekey": null,
+            "custom_instructions_html": "<div style=\"text-align:center;\"><a style=\"color: #1695df\" href=\"https://support.humblebundle.com/hc/en-us/articles/19988442074267\" target=\"_blank\" style=\"color: #360;\">Redemption Instructions</a><br/><br/><a style=\"color: #ef9741;\" href=\"https://www.ign.com/plus?tpcc=humble\" target=\"_blank\" style=\"color: #360;\"><strong>Click here to redeem.</strong></a></div><p><div style=\"text-align: center;\"><span style=\"color: #1695df;\"><strong>Must be redeemed by February 3rd, 2026.</strong></span></div></p><p><div style=\"text-align: center;\"><span style=\"color: #1695df;\"><strong>New or returning subscribers only.</strong></span></div></p>",
+            "expiration_date|datetime": "2026-02-03T18:00:00",
+            "disallowed_countries": [],
+            "show_custom_instructions_in_user_libraries": false,
+            "key_type": "generic",
+            "visible": true,
+            "sold_out": false,
+            "is_partial_gift": false,
+            "display_separately": true,
+            "direct_redeem": false,
+            "key_type_human_name": "IGN Plus",
+            "human_name": "One Month of IGN Plus",
+            "auto_expand": false,
+            "is_expired": false,
+            "class": "genericbutton",
+            "partial_gift_enabled": true,
+            "num_days_until_expired": 24
+          }
+        ],
+        "user_rating": {},
+        "platforms": [],
+        "more_information": null,
+        "msrp|money": {
+          "currency": "USD",
+          "amount": 4.99
+        },
+        "developers": [
+          "IGN Plus"
+        ],
+        "system_requirements": null,
+        "genres": []
+      },
+      "hunt_showdown1896": {
+        "recommendation_copy_dict": {
+          "copy": "Calling all crack-shots, butchering brutes, and handgun heathens\u2014dip your toes into the bloody waters of Hunt: Showdown 1896. This addictively unforgiving extraction shooter drops players into a twisted offshoot of America\u2019s Gilded Age, where unworldly monsters and rival hunters stand between you and a massive payday.<br><br>Feel the rush of combat as you take bounties and kill anyone who stands in your way using your upgradeable weapon of choice. Hunt alone or with friends in team-based skirmishes and adrenaline-pumping PvP modes as you make your way through a satisfying progression system for your character. Fulfill your bounty-hunting fantasies within this ever-evolving and frequently updated experience!<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><em><strong>Keys expire. Please redeem your key before February 3rd, 2027.</strong></em></span></span>"
+        },
+        "delivery_methods": [
+          "steam"
+        ],
+        "description": "<i>Hunt: Showdown 1896</i> is a new era of the addictively unforgiving extraction shooter. In corrupted backwaters lost to history, fight back alone \u2013 or with friends \u2013 against timeless evil. Twisted monsters and other ruthless Hunters stand between you and your Bounty. Risk everything as Hunt consumes you.\n<br>\n<br>\n<br>\n<video autoplay loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"\">\n <source src=\"https://hb.imgix.net/b7a0c1ab8352cc6c9b68adbf7b71ea791bf86eaa.gif?auto=format&amp;fm=mp4&amp;s=86431ace1729835de1c44a609cfe75d9\" type=\"video/mp4\">\n</video>\n<br>\n<br>\nTake rich bounties and kill anyone that tries to stop you \u2013 and they will try. Race competing Hunters to track down bosses, send them to hell, claim their bounty, and fight your way to extract. If others only slow you down, go alone. If you find strength in numbers, take up to two teammates along.\n<br>\n<br>\n<video autoplay loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"\">\n <source src=\"https://hb.imgix.net/4bc9a373604b07a0a5f407a1fa57f9d9ef8d6ab3.gif?auto=format&amp;fm=mp4&amp;s=f4901229495b0a653f10fb622ea84ae3\" type=\"video/mp4\">\n</video>\n<br>\n<br>\nRisk everything to unlock dark powers and forbidden wealth. Every bullet counts. Every wound hurts. And every death is permanent. But if you succeed, every victory will be unforgettable.\n<br>\n<br>\n<br>\n<video autoplay loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"\">\n <source src=\"https://hb.imgix.net/81a85a4551fe08b10cbfc22f097044031f726eff.gif?auto=format&amp;fm=mp4&amp;s=fec1e9576f15ee44459cd567545afc04\" type=\"video/mp4\">\n</video>\n<br>\n<br>\nHear footsteps squelch in the mud as you wait with bated breath to strike. The world speaks. Every gunshot is a message; every howling dog a klaxon. Gramophones murmur with the haunting melodies of Port Sulphur Band. Listen, and you might live to die another day.\n<br>\n<br>\n<video autoplay loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"\">\n <source src=\"https://hb.imgix.net/6f695e39d8f5e2dfb26b75453d9ad790361171c0.gif?auto=format&amp;fm=mp4&amp;s=4811d0cd3435439477c78ad5f45e7544\" type=\"video/mp4\">\n</video>\n<br>\n<br>\nKeep striving for more, the world is always growing. Frequent updates challenge you with new Events, expand your arsenal of weapons, introduce new characters, and offer the chance to get ornate rewards. Join the thriving Hunt community, stay informed, and get an edge over the Corruption.\n",
+        "title": "Hunt: Showdown 1896",
+        "carousel_content": {
+          "youtube-link": [],
+          "asm-demo-machine-name": [],
+          "thumbnails": [
+            "https://hb.imgix.net/8e62ba0e09c31d8f0009a45089fb6fc4b16707e1.jpg?auto=compress,format&fit=crop&h=122&w=218&s=189332db9d064c4fa37477d613c503f7",
+            "https://hb.imgix.net/99ea07f76e2652385d6a9160b1cadfb0a1a90100.jpg?auto=compress,format&fit=crop&h=122&w=218&s=1382e80015de126f7f4ad518ce8204f1",
+            "https://hb.imgix.net/328e22776c03305926eb75c70d05e9c69ec2a561.jpg?auto=compress,format&fit=crop&h=122&w=218&s=4415456b2d48ff5bf2160706521b503d",
+            "https://hb.imgix.net/dd3b0d342b71bc62f7acc8182e3c9b99bad561cd.jpg?auto=compress,format&fit=crop&h=122&w=218&s=8f930b115ffb45a8696d59232982645c",
+            "https://hb.imgix.net/b5ca9b97b14ef8cf1d6339ab0037ef9a7df4bff4.jpg?auto=compress,format&fit=crop&h=122&w=218&s=664f12b3896eb2de1bec2b5a4d97f5e8",
+            "https://hb.imgix.net/8d30d1046ee37ef2bac1ab4a2bd60a2449fdd8f2.jpg?auto=compress,format&fit=crop&h=122&w=218&s=ae0a08a1284a092717885ee1eeea4f2d",
+            "https://hb.imgix.net/00ff1b22b435bff0848455228c24aa1b660ad7fe.jpg?auto=compress,format&fit=crop&h=122&w=218&s=f2870f38b6b9036f07d17809791aa6e9"
+          ],
+          "screenshot": [
+            "https://hb.imgix.net/8e62ba0e09c31d8f0009a45089fb6fc4b16707e1.jpg?auto=compress,format&fit=crop&h=425&w=741&s=a6f1ac34c90d77693c8e66e86f5dbe6a",
+            "https://hb.imgix.net/99ea07f76e2652385d6a9160b1cadfb0a1a90100.jpg?auto=compress,format&fit=crop&h=425&w=741&s=cbfe9e856a956485ec628833e5763f2a",
+            "https://hb.imgix.net/328e22776c03305926eb75c70d05e9c69ec2a561.jpg?auto=compress,format&fit=crop&h=425&w=741&s=99a68d8511f65c7e31b861eabbea96d0",
+            "https://hb.imgix.net/dd3b0d342b71bc62f7acc8182e3c9b99bad561cd.jpg?auto=compress,format&fit=crop&h=425&w=741&s=05977e04ee2d615f7b2e70d2207c27cb",
+            "https://hb.imgix.net/b5ca9b97b14ef8cf1d6339ab0037ef9a7df4bff4.jpg?auto=compress,format&fit=crop&h=425&w=741&s=8081adbbaeba7e07fae2b6dad78da5c0",
+            "https://hb.imgix.net/8d30d1046ee37ef2bac1ab4a2bd60a2449fdd8f2.jpg?auto=compress,format&fit=crop&h=425&w=741&s=74ed68710e7a71b35f3899c314956441",
+            "https://hb.imgix.net/00ff1b22b435bff0848455228c24aa1b660ad7fe.jpg?auto=compress,format&fit=crop&h=425&w=741&s=c8343de2db42bf50c5cdeab56d811807"
+          ]
+        },
+        "image": "https://hb.imgix.net/8efbaf7b0bd7a9658fa0422068593d3d6e75c802.jpg?auto=compress,format&fit=clip&h=383&w=667&s=6c4daa5c21c2192ce2feda999c43c34b",
+        "display_item_machine_name": "hunt_showdown1896",
+        "tpkds": [
+          {
+            "machine_name": "hunt_showdown1896_choice_steam",
+            "custom_instructions_html": "<p><div style=\"text-align: center;\"><span style=\"color: #1695df;\"><strong>Must be redeemed by February 3rd, 2027 by 10:00 AM Pacific Time.</strong></span></div><p>",
+            "show_custom_instructions_in_user_libraries": false,
+            "key_type": "steam",
+            "visible": true,
+            "sold_out": false,
+            "is_partial_gift": false,
+            "display_separately": false,
+            "steam_app_id": 594650,
+            "exclusive_countries": [],
+            "class": "steambutton",
+            "num_days_until_expired": 389,
+            "gamekey": null,
+            "expiration_date|datetime": "2027-02-03T18:00:00",
+            "disallowed_countries": [],
+            "direct_redeem": false,
+            "instructions_html": "<a href='https://support.humblebundle.com/hc/articles/204008710-How-To-Redeem-Steam-Keys' target='_blank'>Steam Instructions</a>",
+            "key_type_human_name": "Steam",
+            "human_name": "Hunt Showdown 1896",
+            "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
+            "auto_expand": true,
+            "is_expired": false,
+            "partial_gift_enabled": true,
+            "disclaimer": "Steam will not provide extra giftable copies of games you already own."
+          }
+        ],
+        "user_rating": {
+          "steam_percent|decimal": 0.8,
+          "display_user_ratings": "steam_overall",
+          "review_text": "very_positive",
+          "steam_count": 163423
+        },
+        "platforms": [
+          "windows"
+        ],
+        "more_information": null,
+        "msrp|money": {
+          "currency": "USD",
+          "amount": 29.99
+        },
+        "developers": [
+          "Crytek"
+        ],
+        "system_requirements": "<b>Minimum:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 10 64 bit<br><strong>Processor:</strong> Intel CPU 7th Gen 7700 / AMD Ryzen 5 2600<br><strong>Memory:</strong> 8 GB RAM<br><strong>Graphics:</strong> NVIDIA GTX 1650 Super or AMD Radeon RX 5500 XT, with a minimum of 4GB of VRAM<br><strong>DirectX:</strong> Version 12<br><strong>Network:</strong> Broadband Internet connection<br><strong>Storage:</strong> 75 GB available space<br><strong>Sound Card:</strong> DirectX compatible audio card<br><strong>Additional Notes:</strong> Best experienced with headphones and on a SSD drive<br><br><b>Recommended:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 11 64 bit<br><strong>Processor:</strong> Intel CPU 8th Gen 8700 / AMD Ryzen 5 2700<br><strong>Memory:</strong> 12 GB RAM<br><strong>Graphics:</strong> RTX 2060 Super / AMD 6600 XT, with a minimum of 8GB of VRAM<br><strong>DirectX:</strong> Version 12<br><strong>Network:</strong> Broadband Internet connection<br><strong>Storage:</strong> 75 GB available space<br><strong>Sound Card:</strong> DirectX compatible audio card<br><strong>Additional Notes:</strong> Best experienced with headphones and on a SSD drive<br><br><b>Supported Languages:</b> English, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Polish, Turkish, Japanese, Portuguese - Brazil",
+        "genres": [
+          "Action"
+        ]
+      },
+      "metalslugtactics": {
+        "recommendation_copy_dict": {
+          "copy": "Tactical RPGs have never been hotter\u2014and few have done it better than METAL SLUG. Experience METAL SLUG TACTICS, the latest entry in this historic franchise. The cartoony look and feel of the original series is here, with polished visuals and even tighter turn-based gameplay. Build your team from a pool of iconic Brothers-in-Arms from across the series\u2019 in-world history and embark on an exhilarating campaign with roguelike elements!<br><br>Experiment with more than 100 kickass loadout and weapon mod combinations to outmaneuver and obliterate opposing armies! Strategically navigate your specialized characters across 110 handcrafted, unique maps to establish positional superiority over enemy forces and dominate the battlefield\u2014and when in doubt, deliver a decisive L with a METAL SLUG tank!<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><em><strong>Keys expire. Please redeem your key before August 3rd, 2026.</strong></em></span></span>"
+        },
+        "delivery_methods": [
+          "steam"
+        ],
+        "description": "<p>\n <i>Metal Slug Tactics</i> brings the explosive charm and nostalgic fun of the cult METAL SLUG series to the tactical scene! Get ready for an intense ride through the best of both worlds: classic arcade action and roguelite tactical thrills. Jump into the combat zone and revive your METAL SLUG nostalgia in a whole new way!\n</p>\n<p>\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"40\" src=\"https://hb.imgix.net/f5f4f72d5965263db3a271eb27b5259f38a64c7a.jpg?auto=compress,format&s=cc9b408b01cd60edf2a6007128414b6e\" width=\"612\">\n </span>\n</p>\n<strong class=\"hmb\">\n <br>\n <br>\n TACTICAL RPG WITH ROGUELIKE ELEMENTS\n</strong>\n<br>\n<p>\n</p>\n<p>\n <i>Metal Slug Tactics</i> offers a fresh perspective on the iconic battles of the METAL SLUG series. Lead your squad to victory through strategic guile and superior firepower in a perfect blend of classic action and tactical depth. Unleash powerful special attacks and shape the outcome of each encounter!\n</p>\n<p>\n</p>\n<p>\n Accumulate experience after each battle to unlock new weapons or bonus perks to upgrade your team's firepower and tactical skills.\n</p>\n<p>\n</p>\n<p>\n Assemble your team and rewrite the rules in this modern tribute to a cult classic!\n</p>\n<p>\n</p>\n<p>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/extras/e2a8d381fabf6e208798faed3b5663ca.webm?t=1763548713\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/extras/e2a8d381fabf6e208798faed3b5663ca.mp4?t=1763548713\">\n  </video>\n </span>\n</p>\n<strong class=\"hmb\">\n <br>\n <br>\n GET YOUR GEAR, SOLDIERS! MISSION START!\n</strong>\n<br>\n<p>\n</p>\n<p>\n Choose between iconic brothers-in-arms from across the METAL SLUG series and create the perfect team to stop Morden's devious plans.\n</p>\n<p>\n</p>\n<p>\n Determine the best weapon loadouts and mods to maximize combo efficiency on the battlefield.\n</p>\n<p>\n</p>\n<p>\n Launch simultaneous attacks with the \"SYNC\" mechanic to deal massive damage to the enemy! And if your team is in trouble, you can always call in some reinforcements and watch the big guns at work: heavy artillery, airstrikes, the glorious METAL SLUG itself - you name it, you get it!\n</p>\n<p>\n</p>\n<p>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/extras/49388b441c584707215f649846840a48.webm?t=1763548713\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/extras/49388b441c584707215f649846840a48.mp4?t=1763548713\">\n  </video>\n </span>\n</p>\n<strong class=\"hmb\">\n <br>\n <br>\n FIGHT YOUR WAY TO VICTORY\n</strong>\n<br>\n<p>\n</p>\n<p>\n Embark on an exalting campaign through beautiful, hand-crafted maps to end the war and defeat the infamous Rebel Army once and for all! You're going to face many challenges, so brace yourself for countless deaths, but don\u2019t give up and push through.\n</p>\n<p>\n</p>\n<p>\n Whether you're a skilled veteran or a new recruit, play and replay your favorite missions, learn precious strategic insight from each adventure and hone your skills with each hard-fought victory.\n</p>\n<p>\n</p>\n<p>\n Gain experience, level up your operatives, adapt to your enemies, and remember: every defeat is a lesson, yet triumph awaits those who refuse to surrender!\n</p>\n<p>\n</p>\n<p>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/extras/ff5b472f723ffac399134ecffec30fb8.webm?t=1763548713\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/extras/ff5b472f723ffac399134ecffec30fb8.mp4?t=1763548713\">\n  </video>\n </span>\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"40\" src=\"https://hb.imgix.net/c82d95278be63d9b6873dcc2f3165c8dd071249f.jpg?auto=compress,format&s=e145539ed0eeb51516402518f04f910a\" width=\"612\">\n </span>\n</p>\n<p>\n Donald Morden is back! After years of hiding in a country opposed to the World Government, the devious General patiently staged a coup. Now, he is finally ready to take revenge upon the World with the army he has secretly gathered throughout the years.\n</p>\n<p>\n</p>\n<p>\n The Peregrine Falcons Squad will have to do everything in their power to make it through the enemy lines and take down General Morden before the war escalates into catastrophe!\n</p>\n<p>\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"40\" src=\"https://hb.imgix.net/ff2e038bb567bde5610dd2f439758415ecdd3171.jpg?auto=compress,format&s=d3e846bdb5ddf588fdedaf702d1f96cc\" width=\"612\">\n </span>\n</p>\n<p>\n \u25cf Discover the first tactical RPG in the METAL SLUG franchise\n</p>\n<p>\n \u25cf Experience a huge replayability with its die-and-retry roguelite progression\n</p>\n<p>\n \u25cf Enjoy amazing pixel art graphics, a heartfelt tribute to the series\n</p>\n<p>\n \u25cf Battle Morden\u2019s Army in 110 hand-crafted maps and 20 different mission types\n</p>\n<p>\n \u25cf Bring the perfect setup for every mission with 36 different weapons and 176 weapon mods\n</p>\n<p>\n \u25cf Choose between 9 iconic characters from the series and create the perfect team\n</p>\n<p>\n \u25cf Experiment with 36 loadouts and combos to outsmart your enemies\n</p>\n<p>\n \u25cf Challenge iconic bosses from the METAL SLUG universe\n</p>\n<p>\n \u25cf Headbang all the way with an amazing soundtrack by Tee Lopes\n</p>\n<p>\n</p>\n<p>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/extras/aca93bd71d723a362acfd8fce88ae088.webm?t=1763548713\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590760/extras/aca93bd71d723a362acfd8fce88ae088.mp4?t=1763548713\">\n  </video>\n </span>\n</p>\n<p>\n</p>",
+        "title": "Metal Slug Tactics",
+        "carousel_content": {
+          "youtube-link": [
+            "7YEezcHRLNU",
+            "XCsMWlbEiVw",
+            "_Ny_DNv53n0",
+            "Tc3X4zUaFSE",
+            "0qqv2-XxPn8"
+          ],
+          "thumbnails": [
+            "https://hb.imgix.net/5e973662576370f40dfdd740bdd8cb860e50e7c8.jpg?auto=compress,format&fit=crop&h=122&w=218&s=ddd6b87960cdb747223257d39d790c06",
+            "https://hb.imgix.net/dfd2b46a3393776e8db7f6c5b8cce652bb2fa4d3.jpg?auto=compress,format&fit=crop&h=122&w=218&s=d6a2b65a3f9f2ce5e3b6b2d5945ccd74",
+            "https://hb.imgix.net/b9f8d696187d57b0675323245d962cc0290afd8a.jpg?auto=compress,format&fit=crop&h=122&w=218&s=1dfe25ee686320bba734ac7e0db6cf47",
+            "https://hb.imgix.net/11bd9b42942cdf52e025f7c7d301542e8eef8446.jpg?auto=compress,format&fit=crop&h=122&w=218&s=2a637f5716edc1089abe16951e36149c",
+            "https://hb.imgix.net/388c8add02570e348c2e95129013e31e87ed5cc2.jpg?auto=compress,format&fit=crop&h=122&w=218&s=46bc6f6b32bc1aafc80e292579830a3c",
+            "https://hb.imgix.net/40ce7eabdaf66a7023b10b3ced2bacce4bac90de.jpg?auto=compress,format&fit=crop&h=122&w=218&s=666ea74220096645f685f2d090562850",
+            "https://hb.imgix.net/1af4108770bfcef512068dd193774aa0fe26882d.jpg?auto=compress,format&fit=crop&h=122&w=218&s=597c12f2d536a71b8380daca5c619079",
+            "https://hb.imgix.net/13c7b86f90f9ec19c6bac41bf3ed640a09826b5a.jpg?auto=compress,format&fit=crop&h=122&w=218&s=6089ab292bf89bc22c030070ff1931f4",
+            "https://hb.imgix.net/d9842f4d47c4f3b1de3f2bc83cdd76786e24aab0.jpg?auto=compress,format&fit=crop&h=122&w=218&s=cb3adc78d19f5074d1bc95615ad9ecca",
+            "https://hb.imgix.net/e3f02f48d8ea76c24802fc528db01e77993cf62a.jpg?auto=compress,format&fit=crop&h=122&w=218&s=718ef533d0b5c5190b90fc18be739877"
+          ],
+          "screenshot": [
+            "https://hb.imgix.net/5e973662576370f40dfdd740bdd8cb860e50e7c8.jpg?auto=compress,format&fit=crop&h=425&w=741&s=5eaa76e2c5535ce0a39848bbcd2a4b40",
+            "https://hb.imgix.net/dfd2b46a3393776e8db7f6c5b8cce652bb2fa4d3.jpg?auto=compress,format&fit=crop&h=425&w=741&s=9d8f56c54613c82cf4f6b275979c2e13",
+            "https://hb.imgix.net/b9f8d696187d57b0675323245d962cc0290afd8a.jpg?auto=compress,format&fit=crop&h=425&w=741&s=f20cc598dff55db13a2ae4bcd10b4f2e",
+            "https://hb.imgix.net/11bd9b42942cdf52e025f7c7d301542e8eef8446.jpg?auto=compress,format&fit=crop&h=425&w=741&s=8be263a7052f26ee8fd8ef1b749cba4d",
+            "https://hb.imgix.net/388c8add02570e348c2e95129013e31e87ed5cc2.jpg?auto=compress,format&fit=crop&h=425&w=741&s=183b57dae5d541e051ddaf1aaa169323",
+            "https://hb.imgix.net/40ce7eabdaf66a7023b10b3ced2bacce4bac90de.jpg?auto=compress,format&fit=crop&h=425&w=741&s=f9b736ec0a835883843b032c8d8e91e2",
+            "https://hb.imgix.net/1af4108770bfcef512068dd193774aa0fe26882d.jpg?auto=compress,format&fit=crop&h=425&w=741&s=1f57c862eb3272a85554afcbf49f5639",
+            "https://hb.imgix.net/13c7b86f90f9ec19c6bac41bf3ed640a09826b5a.jpg?auto=compress,format&fit=crop&h=425&w=741&s=13a03aad96048536a7886a8f115c20e2",
+            "https://hb.imgix.net/d9842f4d47c4f3b1de3f2bc83cdd76786e24aab0.jpg?auto=compress,format&fit=crop&h=425&w=741&s=d846c0aecf04fee9022e5077c9167218",
+            "https://hb.imgix.net/e3f02f48d8ea76c24802fc528db01e77993cf62a.jpg?auto=compress,format&fit=crop&h=425&w=741&s=c0462ed148536a4562b4c86dbe7442ca"
+          ]
+        },
+        "image": "https://hb.imgix.net/25856456cdff60d3a9b6a1487d853f961f3a5307.jpg?auto=compress,format&fit=clip&h=383&w=667&s=d62f18a075b51bfd3f1f1a7070665b91",
+        "display_item_machine_name": "metalslugtactics",
+        "tpkds": [
+          {
+            "machine_name": "metalslugtactics_choice_steam",
+            "custom_instructions_html": "<p><div style=\"text-align: center;\"><span style=\"color: #1695df;\"><strong>Must be redeemed by August 3rd, 2026 by 10:00 AM Pacific Time.</strong></span></div><p>",
+            "show_custom_instructions_in_user_libraries": false,
+            "key_type": "steam",
+            "visible": true,
+            "sold_out": false,
+            "is_partial_gift": false,
+            "display_separately": false,
+            "steam_app_id": 1590760,
+            "exclusive_countries": [],
+            "class": "steambutton",
+            "num_days_until_expired": 205,
+            "gamekey": null,
+            "expiration_date|datetime": "2026-08-03T17:00:00",
+            "disallowed_countries": [],
+            "direct_redeem": false,
+            "instructions_html": "<a href='https://support.humblebundle.com/hc/articles/204008710-How-To-Redeem-Steam-Keys' target='_blank'>Steam Instructions</a>",
+            "key_type_human_name": "Steam",
+            "human_name": "Metal Slug Tactics",
+            "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
+            "auto_expand": true,
+            "is_expired": false,
+            "partial_gift_enabled": true,
+            "disclaimer": "Steam will not provide extra giftable copies of games you already own."
+          }
+        ],
+        "user_rating": {
+          "steam_percent|decimal": 0.77,
+          "display_user_ratings": "steam_overall",
+          "review_text": "mostly_positive",
+          "steam_count": 1048
+        },
+        "platforms": [
+          "windows"
+        ],
+        "more_information": null,
+        "msrp|money": {
+          "currency": "USD",
+          "amount": 24.99
+        },
+        "developers": [
+          "Leikir Studio"
+        ],
+        "system_requirements": "<b>Minimum:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 10<br><strong>Processor:</strong> Intel Core i5-2550k or AMD FX-6300<br><strong>Memory:</strong> 8 GB RAM<br><strong>Graphics:</strong> NVIDIA GeForce GT 730, 2GB or AMD Radeon HD 7570, 1GB<br><strong>DirectX:</strong> Version 11<br><strong>Storage:</strong> 4 GB available space<br><br><b>Recommended:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 10<br><strong>Processor:</strong> Intel Core i5-4570 or Ryzen 5 1400<br><strong>Memory:</strong> 12 GB RAM<br><strong>Graphics:</strong> NVIDIA GeForce GTX 650 Ti, 2 GB or AMD Radeon HD 7770, 1GB<br><strong>DirectX:</strong> Version 11<br><strong>Storage:</strong> 4 GB available space<br><br><b>Supported Languages:</b> English, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Simplified Chinese, Traditional Chinese",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG",
+          "Strategy"
+        ]
+      },
+      "wizardoflegend2": {
+        "recommendation_copy_dict": {
+          "copy": "Wizard of Legend II is an action rogue-lite published by Humble Games that focuses on Arcana magic and fast-paced movement. This dynamic sequel to the 2018 breakout success offers sharper visuals and finely tunes the established rogue-lite formula with new spells, weapons, and an emphasis on game-changing elemental attacks. No two playthroughs are alike as you navigate dynamic, procedurally generated dungeons within the Trials of Legend\u2014learn from your mistakes, implement new strategies, and come back bigger and better.<br><br>Play alone or invite up to four friends to help you successfully clear Wizard of Legend II today!<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><em><strong>Keys expire. Please redeem your key before February 3rd, 2027.</strong></em></span></span>"
+        },
+        "delivery_methods": [
+          "steam"
+        ],
+        "description": "<p>\n In an age of myth and magic, ambitious wizards from around the world have assembled to undertake the perilous Trials of Legend in the Floating Lands. Many will try. Most will fail. Only those who have truly mastered the chaotic, shifting elemental forces of Arcana will become a Wizard of Legend!\n</p>\n<p>\n</p>\n<p>\n Prepare to face an all-new series of unpredictably perilous trials in <i>Wizard of Legend 2</i>\u2014the action-packed follow-up to the acclaimed dungeon-delving original, featuring vibrant new 3D visuals and fast-paced 4-player online co-op. Wield familiar and new Arcana, experiment with devious new spell combinations, and seek immortality as you return again and again (and again) to master ever-changing rogue-lite challenges.\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/f6b7623929fc5c411b4aa75a60cf689fcf37ef07.jpg?auto=compress,format&s=fdd92b75c4e95722eb9bd21f5adf0146\" width=\"620\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/extras/df92c78b5ce6a57217c6fc376126f906.webm?t=1755717024\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/extras/df92c78b5ce6a57217c6fc376126f906.mp4?t=1755717024\">\n  </video>\n </span>\n Put your spellcraft skills to the test in the Floating Lands\u2014a shifting sorcerous gauntlet conjured forth by Hieronymus, Lanova\u2019s wizard supreme to find a wizard worthy of legend. Get to know the peculiar and powerful members of the wizarding council as they oversee, guide, or throw a twist into your trials.\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/7ae01907be5db1618c579cda0a58d382e326929c.jpg?auto=compress,format&s=55b13ad7912c90627b0c77284a9749a5\" width=\"620\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/extras/05f59f9894fbd34b3d3034c6838f1704.webm?t=1755717024\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/extras/05f59f9894fbd34b3d3034c6838f1704.mp4?t=1755717024\">\n  </video>\n </span>\n Harness the power of familiar and new Arcana\u2014attacks that tame the land\u2019s magical chaotic forces into the form of fiery projectiles, magical melee strikes, swirling tempests, and more. Discover powers during your trial that change your Arcana (and your play) in unexpected ways. Mix, match, experiment, and master your favorite combinations\u2026until you find a new favorite on your next run.\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/e5df8988484d2005c2fe7579b88c100aa3610022.jpg?auto=compress,format&s=fae105b01ba5aba4a9e3ec411fdf3b3c\" width=\"620\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/extras/e432b062acfe287c4d1f6b52155665bd.webm?t=1755717024\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/extras/e432b062acfe287c4d1f6b52155665bd.mp4?t=1755717024\">\n  </video>\n </span>\n Command the raw aspects of fire, water, earth, lightning, air, and chaos. Upgrade your Arcana and equip fortune-changing Relics, adding new layers of possibility and potential. Focus on the raw damage of fire or the unbreakability of earth. Move quicker, sling Arcana faster, or seek balance as each trial demands.\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/0349651f5a3421bb91f33f0ee25a5d94d5ed0730.jpg?auto=compress,format&s=0eb17de427313336b6dcccac04a01bf1\" width=\"620\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/extras/82ae8bd1fd49947d0c519d62f458b04e.webm?t=1755717024\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/extras/82ae8bd1fd49947d0c519d62f458b04e.mp4?t=1755717024\">\n  </video>\n </span>\n Summon friends from around the world to face the trials in <i>Wizard of Legend 2</i>\u2019s new, easy to get into co-op, and unleash magic\u2019s full chaotic potential. Whether you choose to play as a party or go it alone, you\u2019ll have a legendary time.\n</p>\n<p>\n</p>\n<p>\n <span>\n  <img height=\"60\" src=\"https://hb.imgix.net/8c24927a9af359766e4a1b9a282b3ee0759d8c46.jpg?auto=compress,format&s=0baae67abc469451c1c1527b2a4a5c2c\" width=\"620\">\n </span>\n <span>\n  <video>\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/extras/b702fea37c5bcdd7f92f9ae46afab5c0.webm?t=1755717024\">\n   <source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193540/extras/b702fea37c5bcdd7f92f9ae46afab5c0.mp4?t=1755717024\">\n  </video>\n </span>\n Each treacherous trial is unlike the last, and the odds are not in your favor. Learn from your predecessors\u2019 failures through a persistent rogue-lite progression system that grants more arcane options to your next initiate. Each trial takes you one step closer to becoming the Wizard of Legend!\n</p>",
+        "title": "Wizard of Legend 2",
+        "carousel_content": {
+          "youtube-link": [
+            "pukAoloh45Q"
+          ],
+          "thumbnails": [
+            "https://hb.imgix.net/47dacde6a7a07c827f9e84d531d32dd62a43a149.jpg?auto=compress,format&fit=crop&h=122&w=218&s=0bab3ce6cbdba0c4073e2561622ebc70",
+            "https://hb.imgix.net/7c32512ea502fd84c0eb8af167992f7becb36a7e.jpg?auto=compress,format&fit=crop&h=122&w=218&s=5e7698b9b21a26a3bd07ab6f7640c833",
+            "https://hb.imgix.net/52da1608a151036b164bf38195272130a012076a.jpg?auto=compress,format&fit=crop&h=122&w=218&s=81f390cae47d23c8498ec478076ce4e8",
+            "https://hb.imgix.net/c80b3475336015907d8f3d0016ae950a87f95487.jpg?auto=compress,format&fit=crop&h=122&w=218&s=132e79183c3ab7c598e35632a5e61ee9",
+            "https://hb.imgix.net/c7a68d51440c4cde9103365e2e1e44ae0f51e43a.jpg?auto=compress,format&fit=crop&h=122&w=218&s=32f21c1a54769dc40f7a4e1f3140e292",
+            "https://hb.imgix.net/6bcb292002ea14ee2197da1a2520f1b9db1e3792.jpg?auto=compress,format&fit=crop&h=122&w=218&s=792554b0e582dde84a4f74a21999360a",
+            "https://hb.imgix.net/417cbafa4b52959abadd414b84371c0d9ee7a888.jpg?auto=compress,format&fit=crop&h=122&w=218&s=3b0e8d60efd74a830198f2c5fe8f9478",
+            "https://hb.imgix.net/8a9101e6bd6f4e24c4d197022608b5d8ef1fa96d.jpg?auto=compress,format&fit=crop&h=122&w=218&s=dbfe1b0e7fdf6e49e4da18158fb5312b",
+            "https://hb.imgix.net/4197fd5c0c9dc2cb36ea35c21ad8b2990a2762e1.jpg?auto=compress,format&fit=crop&h=122&w=218&s=5d8533992d1a0d8b137dea37874f27e2",
+            "https://hb.imgix.net/e25d6a00e5069829a5ec098acfefc2b3f58ba987.jpg?auto=compress,format&fit=crop&h=122&w=218&s=40d605b4ed34f311df6652325292d2f3"
+          ],
+          "screenshot": [
+            "https://hb.imgix.net/47dacde6a7a07c827f9e84d531d32dd62a43a149.jpg?auto=compress,format&fit=crop&h=425&w=741&s=673241e6e9335888191d737aac42b3b5",
+            "https://hb.imgix.net/7c32512ea502fd84c0eb8af167992f7becb36a7e.jpg?auto=compress,format&fit=crop&h=425&w=741&s=5f6b80b7589aa6f370258427cc7c9742",
+            "https://hb.imgix.net/52da1608a151036b164bf38195272130a012076a.jpg?auto=compress,format&fit=crop&h=425&w=741&s=14e757ea81bb0c8a90eaa4e4755c0b01",
+            "https://hb.imgix.net/c80b3475336015907d8f3d0016ae950a87f95487.jpg?auto=compress,format&fit=crop&h=425&w=741&s=a32da45b2c04027308c0b1fd5c156fd3",
+            "https://hb.imgix.net/c7a68d51440c4cde9103365e2e1e44ae0f51e43a.jpg?auto=compress,format&fit=crop&h=425&w=741&s=768e559a01ad6b4cebe82bcb14521ac5",
+            "https://hb.imgix.net/6bcb292002ea14ee2197da1a2520f1b9db1e3792.jpg?auto=compress,format&fit=crop&h=425&w=741&s=f39beaaa0807757c90161fc519f05520",
+            "https://hb.imgix.net/417cbafa4b52959abadd414b84371c0d9ee7a888.jpg?auto=compress,format&fit=crop&h=425&w=741&s=239bf1a8ebdf3b62cda4b187fd83f7ee",
+            "https://hb.imgix.net/8a9101e6bd6f4e24c4d197022608b5d8ef1fa96d.jpg?auto=compress,format&fit=crop&h=425&w=741&s=d21f57f9771534c0ffedb85e1345ae4f",
+            "https://hb.imgix.net/4197fd5c0c9dc2cb36ea35c21ad8b2990a2762e1.jpg?auto=compress,format&fit=crop&h=425&w=741&s=34867f513d71a0dd74365f6eb08ab03d",
+            "https://hb.imgix.net/e25d6a00e5069829a5ec098acfefc2b3f58ba987.jpg?auto=compress,format&fit=crop&h=425&w=741&s=57d176ea31f18bc5a44fa69e68a59a75"
+          ]
+        },
+        "image": "https://hb.imgix.net/88b24ffdc288db58438b7347c9b379e9201e5107.jpg?auto=compress,format&fit=clip&h=383&w=667&s=8ff30839e7f0b6800a4bf05fd4101a4d",
+        "display_item_machine_name": "wizardoflegend2",
+        "tpkds": [
+          {
+            "machine_name": "wizardoflegend2_choice_steam",
+            "custom_instructions_html": "<p><div style=\"text-align: center;\"><span style=\"color: #1695df;\"><strong>Must be redeemed by February 3rd, 2027 by 10:00 AM Pacific Time.</strong></span></div><p>",
+            "show_custom_instructions_in_user_libraries": false,
+            "key_type": "steam",
+            "visible": true,
+            "sold_out": false,
+            "is_partial_gift": false,
+            "display_separately": false,
+            "steam_app_id": 2193540,
+            "exclusive_countries": [],
+            "class": "steambutton",
+            "num_days_until_expired": 389,
+            "gamekey": null,
+            "expiration_date|datetime": "2027-02-03T18:00:00",
+            "disallowed_countries": [],
+            "direct_redeem": false,
+            "instructions_html": "<a href='https://support.humblebundle.com/hc/articles/204008710-How-To-Redeem-Steam-Keys' target='_blank'>Steam Instructions</a>",
+            "key_type_human_name": "Steam",
+            "human_name": "Wizard of Legend II",
+            "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
+            "auto_expand": true,
+            "is_expired": false,
+            "partial_gift_enabled": true,
+            "disclaimer": "Steam will not provide extra giftable copies of games you already own."
+          }
+        ],
+        "user_rating": {
+          "steam_percent|decimal": 0.57,
+          "display_user_ratings": "steam_overall",
+          "review_text": "mixed",
+          "steam_count": 1788
+        },
+        "platforms": [
+          "windows"
+        ],
+        "more_information": null,
+        "msrp|money": {
+          "currency": "USD",
+          "amount": 24.99
+        },
+        "developers": [
+          "Dead Mage"
+        ],
+        "system_requirements": "<b>Minimum:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 10<br><strong>Processor:</strong> Intel Core i5 3570 or AMD FX 8350<br><strong>Memory:</strong> 8 GB RAM<br><strong>Graphics:</strong> NVIDIA GeForce GTX 1650 4GB / AMD Radeon RX 470 4GB<br><strong>Storage:</strong> 5 GB available space<br><br><b>Recommended:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 10<br><strong>Processor:</strong> Intel Core i5 8400 or AMD Ryzen 5 2600<br><strong>Memory:</strong> 16 GB RAM<br><strong>Graphics:</strong> NVIDIA GeForce GTX 1660 6GB / NVIDIA GeForce GTX 1060 6GB / AMD Radeon RX 590 8GB / AMD Radeon RX 6500XT 4GB<br><strong>Storage:</strong> 5 GB available space<br><br><b>Supported Languages:</b> English, French, German, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Turkish, Persian",
+        "genres": [
+          "Action",
+          "Indie",
+          "RPG"
+        ]
+      }
+    },
+    {
       "likeadragongaiden_themanwhoerasedhisname": {
         "recommendation_copy_dict": {
           "category": "surprise_hit",
@@ -45,7 +1170,7 @@
             "steam_app_id": 2375550,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 392,
+            "num_days_until_expired": 361,
             "gamekey": null,
             "expiration_date|datetime": "2027-01-06T18:00:00",
             "disallowed_countries": [
@@ -241,7 +1366,7 @@
             "steam_app_id": 1809540,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 392,
+            "num_days_until_expired": 361,
             "gamekey": null,
             "expiration_date|datetime": "2027-01-06T18:00:00",
             "disallowed_countries": [],
@@ -324,7 +1449,7 @@
             "is_expired": false,
             "class": "genericbutton",
             "partial_gift_enabled": true,
-            "num_days_until_expired": 81
+            "num_days_until_expired": 50
           }
         ],
         "user_rating": {},
@@ -404,7 +1529,7 @@
             "steam_app_id": 985890,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 392,
+            "num_days_until_expired": 361,
             "gamekey": null,
             "expiration_date|datetime": "2027-01-06T18:00:00",
             "disallowed_countries": [],
@@ -501,7 +1626,7 @@
             "steam_app_id": 1432910,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 392,
+            "num_days_until_expired": 361,
             "gamekey": null,
             "expiration_date|datetime": "2027-01-06T18:00:00",
             "disallowed_countries": [],
@@ -545,7 +1670,7 @@
       },
       "ignplus_choicecoupon_2025": {
         "recommendation_copy_dict": {
-          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before January 6, 2026.</strong></span></span><br></em></p>"
+          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before February 3rd, 2026.</strong></span></span><br></em></p>"
         },
         "delivery_methods": [
           "other-key"
@@ -587,10 +1712,10 @@
             "key_type_human_name": "IGN Plus",
             "human_name": "One Month of IGN Plus",
             "auto_expand": false,
-            "is_expired": false,
+            "is_expired": true,
             "class": "genericbutton",
             "partial_gift_enabled": true,
-            "num_days_until_expired": 27
+            "num_days_until_expired": 0
           }
         ],
         "user_rating": {},
@@ -670,7 +1795,7 @@
             "steam_app_id": 2825530,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 392,
+            "num_days_until_expired": 361,
             "gamekey": null,
             "expiration_date|datetime": "2027-01-06T18:00:00",
             "disallowed_countries": [],
@@ -766,7 +1891,7 @@
             "steam_app_id": 1931180,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 392,
+            "num_days_until_expired": 361,
             "gamekey": null,
             "expiration_date|datetime": "2027-01-06T18:00:00",
             "disallowed_countries": [],
@@ -856,7 +1981,7 @@
             "steam_app_id": 2608270,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 392,
+            "num_days_until_expired": 361,
             "gamekey": null,
             "expiration_date|datetime": "2027-01-06T18:00:00",
             "disallowed_countries": [],
@@ -956,7 +2081,7 @@
             "steam_app_id": 2400770,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 392,
+            "num_days_until_expired": 361,
             "gamekey": null,
             "expiration_date|datetime": "2027-01-06T18:00:00",
             "disallowed_countries": [],
@@ -1131,7 +2256,7 @@
             "steam_app_id": 2917350,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 357,
+            "num_days_until_expired": 326,
             "gamekey": null,
             "expiration_date|datetime": "2026-12-02T18:00:00",
             "disallowed_countries": [],
@@ -1228,7 +2353,7 @@
             "steam_app_id": 1744330,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 357,
+            "num_days_until_expired": 326,
             "gamekey": null,
             "expiration_date|datetime": "2026-12-02T18:00:00",
             "disallowed_countries": [
@@ -1391,7 +2516,7 @@
             "steam_app_id": 1202200,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 115,
+            "num_days_until_expired": 84,
             "gamekey": null,
             "expiration_date|datetime": "2026-04-04T17:00:00",
             "disallowed_countries": [
@@ -1546,7 +2671,7 @@
             "steam_app_id": 1868180,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 357,
+            "num_days_until_expired": 326,
             "gamekey": null,
             "expiration_date|datetime": "2026-12-02T18:00:00",
             "disallowed_countries": [
@@ -1685,7 +2810,7 @@
       },
       "ignplus_choicecoupon_2025": {
         "recommendation_copy_dict": {
-          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before January 6, 2026.</strong></span></span><br></em></p>"
+          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before February 3rd, 2026.</strong></span></span><br></em></p>"
         },
         "delivery_methods": [
           "other-key"
@@ -1805,7 +2930,7 @@
             "steam_app_id": 1989070,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 357,
+            "num_days_until_expired": 326,
             "gamekey": null,
             "expiration_date|datetime": "2026-12-02T18:00:00",
             "disallowed_countries": [],
@@ -1902,7 +3027,7 @@
             "steam_app_id": 1887840,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 357,
+            "num_days_until_expired": 326,
             "gamekey": null,
             "expiration_date|datetime": "2026-12-02T18:00:00",
             "disallowed_countries": [],
@@ -1970,7 +3095,7 @@
             "steam_app_id": null,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 1,
+            "num_days_until_expired": 0,
             "gamekey": null,
             "expiration_date|datetime": "2025-12-11T18:00:00",
             "disallowed_countries": [],
@@ -1980,7 +3105,7 @@
             "human_name": "Lootbane Playtest",
             "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
             "auto_expand": false,
-            "is_expired": false,
+            "is_expired": true,
             "partial_gift_enabled": true,
             "disclaimer": "Steam will not provide extra giftable copies of games you already own."
           }
@@ -2076,7 +3201,7 @@
             "steam_app_id": 1142710,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 357,
+            "num_days_until_expired": 326,
             "gamekey": null,
             "expiration_date|datetime": "2026-12-02T18:00:00",
             "disallowed_countries": [
@@ -2912,7 +4037,7 @@
       },
       "ignplus_choicecoupon_2025": {
         "recommendation_copy_dict": {
-          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before January 6, 2026.</strong></span></span><br></em></p>"
+          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before February 3rd, 2026.</strong></span></span><br></em></p>"
         },
         "delivery_methods": [
           "other-key"
@@ -3697,7 +4822,7 @@
             "steam_app_id": 1581770,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 301,
+            "num_days_until_expired": 270,
             "gamekey": null,
             "expiration_date|datetime": "2026-10-07T17:00:00",
             "disallowed_countries": [
@@ -3830,7 +4955,7 @@
             "steam_app_id": 1085660,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 301,
+            "num_days_until_expired": 270,
             "gamekey": null,
             "expiration_date|datetime": "2026-10-07T17:00:00",
             "disallowed_countries": [
@@ -3906,7 +5031,7 @@
       },
       "ignplus_choicecoupon_2025": {
         "recommendation_copy_dict": {
-          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before January 6, 2026.</strong></span></span><br></em></p>"
+          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before February 3rd, 2026.</strong></span></span><br></em></p>"
         },
         "delivery_methods": [
           "other-key"
@@ -4031,7 +5156,7 @@
             "steam_app_id": 1120810,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 301,
+            "num_days_until_expired": 270,
             "gamekey": null,
             "expiration_date|datetime": "2026-10-07T17:00:00",
             "disallowed_countries": [],
@@ -4130,7 +5255,7 @@
             "steam_app_id": 1627570,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 301,
+            "num_days_until_expired": 270,
             "gamekey": null,
             "expiration_date|datetime": "2026-10-07T17:00:00",
             "disallowed_countries": [],
@@ -4223,7 +5348,7 @@
             "steam_app_id": 2878960,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 301,
+            "num_days_until_expired": 270,
             "gamekey": null,
             "expiration_date|datetime": "2026-10-07T17:00:00",
             "disallowed_countries": [
@@ -4509,7 +5634,7 @@
             "steam_app_id": 1345860,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 301,
+            "num_days_until_expired": 270,
             "gamekey": null,
             "expiration_date|datetime": "2026-10-07T17:00:00",
             "disallowed_countries": [],
@@ -4609,7 +5734,7 @@
             "steam_app_id": 2060130,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 301,
+            "num_days_until_expired": 270,
             "gamekey": null,
             "expiration_date|datetime": "2026-10-07T17:00:00",
             "disallowed_countries": [],
@@ -4696,7 +5821,7 @@
             "steam_app_id": 2078450,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 301,
+            "num_days_until_expired": 270,
             "gamekey": null,
             "expiration_date|datetime": "2026-10-07T17:00:00",
             "disallowed_countries": [
@@ -4801,7 +5926,7 @@
             "steam_app_id": 1084600,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 266,
+            "num_days_until_expired": 235,
             "gamekey": null,
             "expiration_date|datetime": "2026-09-02T17:00:00",
             "disallowed_countries": [],
@@ -4890,7 +6015,7 @@
             "steam_app_id": 1937500,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 266,
+            "num_days_until_expired": 235,
             "gamekey": null,
             "expiration_date|datetime": "2026-09-02T17:00:00",
             "disallowed_countries": [],
@@ -4998,7 +6123,7 @@
             "steam_app_id": 2238040,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 82,
+            "num_days_until_expired": 51,
             "gamekey": null,
             "expiration_date|datetime": "2026-03-02T18:00:00",
             "disallowed_countries": [],
@@ -5040,7 +6165,7 @@
       },
       "ignplus_choicecoupon_2025": {
         "recommendation_copy_dict": {
-          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before January 6, 2026.</strong></span></span><br></em></p>"
+          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before February 3rd, 2026.</strong></span></span><br></em></p>"
         },
         "delivery_methods": [
           "other-key"
@@ -5156,7 +6281,7 @@
             "steam_app_id": 1599330,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 266,
+            "num_days_until_expired": 235,
             "gamekey": null,
             "expiration_date|datetime": "2026-09-02T17:00:00",
             "disallowed_countries": [],
@@ -5244,7 +6369,7 @@
             "steam_app_id": 1586800,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 266,
+            "num_days_until_expired": 235,
             "gamekey": null,
             "expiration_date|datetime": "2026-09-02T17:00:00",
             "disallowed_countries": [
@@ -5508,7 +6633,7 @@
             "steam_app_id": 1291010,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 266,
+            "num_days_until_expired": 235,
             "gamekey": null,
             "expiration_date|datetime": "2026-09-02T17:00:00",
             "disallowed_countries": [],
@@ -5599,7 +6724,7 @@
             "steam_app_id": 1687950,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 266,
+            "num_days_until_expired": 235,
             "gamekey": null,
             "expiration_date|datetime": "2026-09-02T17:00:00",
             "disallowed_countries": [
@@ -5805,7 +6930,7 @@
             "steam_app_id": 1493640,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 266,
+            "num_days_until_expired": 235,
             "gamekey": null,
             "expiration_date|datetime": "2026-09-02T17:00:00",
             "disallowed_countries": [
@@ -5977,7 +7102,7 @@
             "steam_app_id": 1150530,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 203,
+            "num_days_until_expired": 172,
             "gamekey": null,
             "expiration_date|datetime": "2026-07-01T17:00:00",
             "disallowed_countries": [],
@@ -6074,7 +7199,7 @@
             "steam_app_id": 1167450,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 203,
+            "num_days_until_expired": 172,
             "gamekey": null,
             "expiration_date|datetime": "2026-07-01T17:00:40",
             "disallowed_countries": [
@@ -6181,7 +7306,7 @@
       },
       "ignplus_choicecoupon_2025": {
         "recommendation_copy_dict": {
-          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before January 6, 2026.</strong></span></span><br></em></p>"
+          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before February 3rd, 2026.</strong></span></span><br></em></p>"
         },
         "delivery_methods": [
           "other-key"
@@ -6297,7 +7422,7 @@
             "steam_app_id": 794540,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 203,
+            "num_days_until_expired": 172,
             "gamekey": null,
             "expiration_date|datetime": "2026-07-01T17:00:00",
             "disallowed_countries": [],
@@ -6390,7 +7515,7 @@
             "steam_app_id": 2186680,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 203,
+            "num_days_until_expired": 172,
             "gamekey": null,
             "expiration_date|datetime": "2026-07-01T17:00:00",
             "disallowed_countries": [],
@@ -6487,7 +7612,7 @@
             "steam_app_id": 1416960,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 203,
+            "num_days_until_expired": 172,
             "gamekey": null,
             "expiration_date|datetime": "2026-07-01T17:00:00",
             "disallowed_countries": [],
@@ -6589,7 +7714,7 @@
             "steam_app_id": 894020,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 203,
+            "num_days_until_expired": 172,
             "gamekey": null,
             "expiration_date|datetime": "2026-07-01T17:00:00",
             "disallowed_countries": [],
@@ -6843,7 +7968,7 @@
             "steam_app_id": 1982340,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 203,
+            "num_days_until_expired": 172,
             "gamekey": null,
             "expiration_date|datetime": "2026-07-01T17:00:00",
             "disallowed_countries": [
@@ -7365,7 +8490,7 @@
             "steam_app_id": 1496590,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 26,
+            "num_days_until_expired": 0,
             "gamekey": null,
             "expiration_date|datetime": "2026-01-05T18:00:00",
             "disallowed_countries": [
@@ -7445,7 +8570,7 @@
             "human_name": "Tchia",
             "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
             "auto_expand": true,
-            "is_expired": false,
+            "is_expired": true,
             "partial_gift_enabled": true,
             "disclaimer": "Steam will not provide extra giftable copies of games you already own."
           }
@@ -7698,7 +8823,7 @@
       },
       "ignplus_choicecoupon_2025": {
         "recommendation_copy_dict": {
-          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before January 6, 2026.</strong></span></span><br></em></p>"
+          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before February 3rd, 2026.</strong></span></span><br></em></p>"
         },
         "delivery_methods": [
           "other-key"
@@ -8764,7 +9889,7 @@
       },
       "ignplus_choicecoupon_2025": {
         "recommendation_copy_dict": {
-          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before January 6, 2026.</strong></span></span><br></em></p>"
+          "copy": "<p>Treat yourself to a month of IGN Plus! Includes perks like unlimited use of IGN\u2019s in-game maps and guides, free games and even disabling ads across the site.<i data-stringify-type=\"italic\"><br><br></i><em>Not available to active IGN Plus subscribers. By redeeming this offer, you are agreeing to IGN's terms and conditions, which is subject to change. Access to IGN Plus requires an IGN Plus account with a valid credit card on file. Depending on your jurisdiction, you may see a temporary hold applied to your payment method at time of redemption for the 30 day free access of IGN Plus. This is a temporary authorization charge from your bank that is not controlled by IGN; it will be removed from your bank transactions within a time frame dependent on your financial institution. No further action is needed on your part regarding the temporary hold. You will receive 30 days of access to IGN Plus, after the 30 days you will be charged the monthly rate. Offer only valid in regions where IGN Plus is available. You can manage your subscription at any time within your IGN account.<br><br><span style=\"font-weight: 400;\"><span style=\"color: #ef9741;\"><strong>Keys expire. Please redeem your key before February 3rd, 2026.</strong></span></span><br></em></p>"
         },
         "delivery_methods": [
           "other-key"
@@ -9799,7 +10924,7 @@
             "steam_app_id": 1562430,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 22,
+            "num_days_until_expired": 0,
             "gamekey": null,
             "expiration_date|datetime": "2026-01-01T07:59:59",
             "disallowed_countries": [
@@ -9932,7 +11057,7 @@
             "human_name": "Dredge",
             "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
             "auto_expand": true,
-            "is_expired": false,
+            "is_expired": true,
             "partial_gift_enabled": true,
             "disclaimer": "Steam will not provide extra giftable copies of games you already own."
           }
@@ -13795,7 +14920,7 @@
             "steam_app_id": 731040,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 27,
+            "num_days_until_expired": 0,
             "gamekey": null,
             "expiration_date|datetime": "2026-01-06T18:00:00",
             "disallowed_countries": [
@@ -13881,7 +15006,7 @@
             "human_name": "The Invincible",
             "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
             "auto_expand": true,
-            "is_expired": false,
+            "is_expired": true,
             "partial_gift_enabled": true,
             "disclaimer": "Steam will not provide extra giftable copies of games you already own."
           }
@@ -14278,7 +15403,7 @@
             "steam_app_id": 2933080,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 27,
+            "num_days_until_expired": 0,
             "gamekey": null,
             "expiration_date|datetime": "2026-01-06T18:00:00",
             "disallowed_countries": [
@@ -14353,7 +15478,7 @@
             "human_name": "Crime Boss - First Month Edition",
             "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
             "auto_expand": true,
-            "is_expired": false,
+            "is_expired": true,
             "partial_gift_enabled": true,
             "disclaimer": "Steam will not provide extra giftable copies of games you already own."
           }
@@ -14432,7 +15557,7 @@
             "display_separately": false,
             "exclusive_countries": [],
             "class": "genericbutton",
-            "num_days_until_expired": 27,
+            "num_days_until_expired": 0,
             "gamekey": null,
             "expiration_date|datetime": "2026-01-06T18:00:00",
             "disallowed_countries": [
@@ -14497,7 +15622,7 @@
             "hide_personal_use_note": true,
             "human_name": "Moonstone Island",
             "auto_expand": true,
-            "is_expired": false,
+            "is_expired": true,
             "partial_gift_enabled": true
           }
         ],
@@ -14787,7 +15912,7 @@
             "steam_app_id": 1353230,
             "exclusive_countries": [],
             "class": "steambutton",
-            "num_days_until_expired": 27,
+            "num_days_until_expired": 0,
             "gamekey": null,
             "expiration_date|datetime": "2026-01-06T18:00:00",
             "disallowed_countries": [],
@@ -14797,7 +15922,7 @@
             "human_name": "Bomb Rush Cyberfunk",
             "preinstruction_text": "Copy this key into the Steam client, or click Redeem to redeem in-browser.",
             "auto_expand": true,
-            "is_expired": false,
+            "is_expired": true,
             "partial_gift_enabled": true,
             "disclaimer": "Steam will not provide extra giftable copies of games you already own."
           }
@@ -15111,7 +16236,9 @@
               "IS",
               "IT",
               "JE",
+              "JP",
               "KG",
+              "KR",
               "KZ",
               "LI",
               "LT",
@@ -19500,7 +20627,7 @@
         "delivery_methods": [
           "steam"
         ],
-        "description": "<video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 347px;\">\n <source src=\"https://hb.imgix.net/8f9ac3e15336c627473821f08fbf37d2f37143f3.gif?auto=format&amp;fm=mp4&amp;s=6f0d3711e3ac6b68ca95b5c52dd64243\" type=\"video/mp4\">\n</video> <br><i> Piano bridges, dancing plants and musical showdowns, ready to dive into The Mind? </i> <br><br><i>Figment 2: Creed Valley</i> is an action-adventure game set in the human mind. Nightmares are spreading chaos and have overrun once-peaceful lands. Join Dusty, The Mind\u2019s courage, as you make your way through puzzles, musical boss fights and unique environments. Face your fears head-on. <br><br>Nightmares have shattered the Moral Compass, making The Mind unable to function properly. Dusty and his ever-optimistic sidekick, Piper, must travel to Creed Valley, where The Mind\u2019s ideals are formed to restore peace. A journey filled with musical showdowns and mind-bending puzzles awaits. <br><br><img height=\"38\" src=\"https://hb.imgix.net/5a832e00257b04587a3d41bda363adc076388f8f.png?auto=compress,format&amp;s=78b932f79a1f960369201283b8ad350b\" width=\"616\"> <br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 281px;\">\n <source src=\"https://hb.imgix.net/ad0717348d42c0b212add9534dc563d600a8a30b.gif?auto=format&amp;fm=mp4&amp;s=a5d74eb5c266751672a6f3ced6369807\" type=\"video/mp4\">\n</video> <br><img height=\"39\" src=\"https://hb.imgix.net/ead2b7b92457e3dd9984268a5ccdee89ce9542a6.png?auto=compress,format&amp;s=ec99c2702b5712c8b7bb7bd0ad0f577b\" width=\"616\"> <br>Nightmares have their own theme songs, shining light on why they have appeared. <br>Dodge and weave as they taunt you. <br><img height=\"38\" src=\"https://hb.imgix.net/4443b7a3d711de047daefd7b480f771a447af4f0.png?auto=compress,format&amp;s=cd7588522905d50ada7d264b5d18ba9d\" width=\"616\"> <br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 281px;\">\n <source src=\"https://hb.imgix.net/9621cdabae919bdb93a48f8dc9dc797e82724ff1.gif?auto=format&amp;fm=mp4&amp;s=e188e9952f3094a782e38527a1c9eb66\" type=\"video/mp4\">\n</video> <br><img height=\"39\" src=\"https://hb.imgix.net/0cc975e2870ad19dedcbe7a6b68334b9b9f7ded5.png?auto=compress,format&amp;s=ed61e4dc38608960ff6290049dbc9532\" width=\"616\"> <br>Chat with The Mind's ever-changing opinions and tune in to the world's rhythm. <br><img height=\"38\" src=\"https://hb.imgix.net/4443b7a3d711de047daefd7b480f771a447af4f0.png?auto=compress,format&amp;s=cd7588522905d50ada7d264b5d18ba9d\" width=\"616\"> <br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 281px;\">\n <source src=\"https://hb.imgix.net/6ec9ddb699dce8fb181fbccbc5576bef322ffacb.gif?auto=format&amp;fm=mp4&amp;s=c9ed6d9331872a0db849a32c931bcb4d\" type=\"video/mp4\">\n</video> <br><img height=\"39\" src=\"https://hb.imgix.net/e5951efb9515ab7adee473983f2e5e8bc3c02d79.png?auto=compress,format&amp;s=392fbac761a7100ffdb21f7da10a69d1\" width=\"616\"> <br>Explore The Mind\u2019s two fundamental states: Open-minded and Closed-minded. Switch between states and adapt to the shifting environment to move forward. <br><img height=\"38\" src=\"https://hb.imgix.net/4443b7a3d711de047daefd7b480f771a447af4f0.png?auto=compress,format&amp;s=cd7588522905d50ada7d264b5d18ba9d\" width=\"616\"> <br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 281px;\">\n <source src=\"https://hb.imgix.net/e8313cdda7f0baff489f44671cecb804cc10ebd4.gif?auto=format&amp;fm=mp4&amp;s=09276c10b4c238921ae1d06143663e8c\" type=\"video/mp4\">\n</video> <br><img height=\"39\" src=\"https://hb.imgix.net/a386ce55c790acade6eba9b7c5f10412639b94eb.png?auto=compress,format&amp;s=67b8bd334e7c74d9f9a72eae7a789b47\" width=\"616\"> <br>Prove your mental and physical strength through mind-bending puzzles and fights timed to the soundtrack. <br><img height=\"38\" src=\"https://hb.imgix.net/4443b7a3d711de047daefd7b480f771a447af4f0.png?auto=compress,format&amp;s=cd7588522905d50ada7d264b5d18ba9d\" width=\"616\"> <br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 281px;\">\n <source src=\"https://hb.imgix.net/33b66a3449e98bb69adcfc3beeb9291bd8f9c12b.gif?auto=format&amp;fm=mp4&amp;s=bfccbed04b8353f3b8271fb82a6beec0\" type=\"video/mp4\">\n</video> <br><img height=\"39\" src=\"https://hb.imgix.net/1fc4b92c286c3ec378b5b0cf8e6cadaf6bee00e4.png?auto=compress,format&amp;s=f07b8615197f928a6536d7d9a9eb56a5\" width=\"616\"> <br>We should never have to face our fears alone. Piper is now a controllable character for local co-op. Controller required. <br><br><img height=\"38\" src=\"https://hb.imgix.net/49818b5e2c518d0d20f337d3406dddf227e620ed.png?auto=compress,format&amp;s=30235d90cb3be886a6146a50ddd73358\" width=\"616\"> <br><br>Joy, sadness and everything in between. <i>Figment 2: Creed Valley</i> draws from emotional experiences that affect us all. <br>Face stress, anxiety and the fear of the dark in a musical and surreal universe. <br>Grab your sword and restore the light that once was. <br><br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 250px;\">\n <source src=\"https://hb.imgix.net/fafb5b70a01b9e3fba57c0afc7b2c8d6fcdefc22.gif?auto=format&amp;fm=mp4&amp;s=adb624d25596435ec070d1ff217b056b\" type=\"video/mp4\">\n</video>",
+        "description": "<video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 347px;\">\n <source src=\"https://hb.imgix.net/8f9ac3e15336c627473821f08fbf37d2f37143f3.gif?auto=format&amp;fm=mp4&amp;s=6f0d3711e3ac6b68ca95b5c52dd64243\" type=\"video/mp4\">\n</video> <br><i> Piano bridges, dancing plants and musical showdowns, ready to dive into The Mind? </i> <br><br><i>Figment 2: Creed Valley</i> is an action-adventure game set in the human mind. Nightmares are spreading chaos and have overrun once-peaceful lands. Join Dusty, The Mind\u2019s courage, as you make your way through puzzles, musical boss fights and unique environments. Face your fears head-on. <br><br>Nightmares have shattered the Moral Compass, making The Mind unable to function properly. Dusty and his ever-optimistic sidekick, Piper, must travel to Creed Valley, where The Mind\u2019s ideals are formed to restore peace. A journey filled with musical showdowns and mind-bending puzzles awaits. <br><img height=\"38\" src=\"https://hb.imgix.net/5a832e00257b04587a3d41bda363adc076388f8f.png?auto=compress,format&amp;s=78b932f79a1f960369201283b8ad350b\" width=\"616\"> <br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 281px;\">\n <source src=\"https://hb.imgix.net/ad0717348d42c0b212add9534dc563d600a8a30b.gif?auto=format&amp;fm=mp4&amp;s=a5d74eb5c266751672a6f3ced6369807\" type=\"video/mp4\">\n</video> <br><img height=\"39\" src=\"https://hb.imgix.net/ead2b7b92457e3dd9984268a5ccdee89ce9542a6.png?auto=compress,format&amp;s=ec99c2702b5712c8b7bb7bd0ad0f577b\" width=\"616\"> <br>Nightmares have their own theme songs, shining light on why they have appeared. <br>Dodge and weave as they taunt you. <br><img height=\"38\" src=\"https://hb.imgix.net/4443b7a3d711de047daefd7b480f771a447af4f0.png?auto=compress,format&amp;s=cd7588522905d50ada7d264b5d18ba9d\" width=\"616\"> <br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 281px;\">\n <source src=\"https://hb.imgix.net/9621cdabae919bdb93a48f8dc9dc797e82724ff1.gif?auto=format&amp;fm=mp4&amp;s=e188e9952f3094a782e38527a1c9eb66\" type=\"video/mp4\">\n</video> <br><img height=\"39\" src=\"https://hb.imgix.net/0cc975e2870ad19dedcbe7a6b68334b9b9f7ded5.png?auto=compress,format&amp;s=ed61e4dc38608960ff6290049dbc9532\" width=\"616\"> <br>Chat with The Mind's ever-changing opinions and tune in to the world's rhythm. <br><img height=\"38\" src=\"https://hb.imgix.net/4443b7a3d711de047daefd7b480f771a447af4f0.png?auto=compress,format&amp;s=cd7588522905d50ada7d264b5d18ba9d\" width=\"616\"> <br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 281px;\">\n <source src=\"https://hb.imgix.net/6ec9ddb699dce8fb181fbccbc5576bef322ffacb.gif?auto=format&amp;fm=mp4&amp;s=c9ed6d9331872a0db849a32c931bcb4d\" type=\"video/mp4\">\n</video> <br><img height=\"39\" src=\"https://hb.imgix.net/e5951efb9515ab7adee473983f2e5e8bc3c02d79.png?auto=compress,format&amp;s=392fbac761a7100ffdb21f7da10a69d1\" width=\"616\"> <br>Explore The Mind\u2019s two fundamental states: Open-minded and Closed-minded. Switch between states and adapt to the shifting environment to move forward. <br><img height=\"38\" src=\"https://hb.imgix.net/4443b7a3d711de047daefd7b480f771a447af4f0.png?auto=compress,format&amp;s=cd7588522905d50ada7d264b5d18ba9d\" width=\"616\"> <br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 281px;\">\n <source src=\"https://hb.imgix.net/e8313cdda7f0baff489f44671cecb804cc10ebd4.gif?auto=format&amp;fm=mp4&amp;s=09276c10b4c238921ae1d06143663e8c\" type=\"video/mp4\">\n</video> <br><img height=\"39\" src=\"https://hb.imgix.net/a386ce55c790acade6eba9b7c5f10412639b94eb.png?auto=compress,format&amp;s=67b8bd334e7c74d9f9a72eae7a789b47\" width=\"616\"> <br>Prove your mental and physical strength through mind-bending puzzles and fights timed to the soundtrack. <br><img height=\"38\" src=\"https://hb.imgix.net/4443b7a3d711de047daefd7b480f771a447af4f0.png?auto=compress,format&amp;s=cd7588522905d50ada7d264b5d18ba9d\" width=\"616\"> <br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 281px;\">\n <source src=\"https://hb.imgix.net/33b66a3449e98bb69adcfc3beeb9291bd8f9c12b.gif?auto=format&amp;fm=mp4&amp;s=bfccbed04b8353f3b8271fb82a6beec0\" type=\"video/mp4\">\n</video> <br><img height=\"39\" src=\"https://hb.imgix.net/1fc4b92c286c3ec378b5b0cf8e6cadaf6bee00e4.png?auto=compress,format&amp;s=f07b8615197f928a6536d7d9a9eb56a5\" width=\"616\"> <br>We should never have to face our fears alone. Piper is now a controllable character for local co-op. Controller required. <br><br><img height=\"38\" src=\"https://hb.imgix.net/49818b5e2c518d0d20f337d3406dddf227e620ed.png?auto=compress,format&amp;s=30235d90cb3be886a6146a50ddd73358\" width=\"616\"> <br><br>Joy, sadness and everything in between. <i>Figment 2: Creed Valley</i> draws from emotional experiences that affect us all. <br>Face stress, anxiety and the fear of the dark in a musical and surreal universe. <br>Grab your sword and restore the light that once was. <br><br><video autoplay=\"autoplay\" loop=\"loop\" muted=\"muted\" preload=\"auto\" style=\"width: 616px; height: 250px;\">\n <source src=\"https://hb.imgix.net/fafb5b70a01b9e3fba57c0afc7b2c8d6fcdefc22.gif?auto=format&amp;fm=mp4&amp;s=adb624d25596435ec070d1ff217b056b\" type=\"video/mp4\">\n</video>",
         "title": "Figment 2: Creed Valley",
         "carousel_content": {
           "youtube-link": [
@@ -33293,9 +34420,9 @@
             "key_type_human_name": "Steam",
             "human_name": "Death Stranding Director's Cut",
             "auto_expand": false,
-            "is_expired": false,
+            "is_expired": true,
             "partial_gift_enabled": true,
-            "num_days_until_expired": 21
+            "num_days_until_expired": 0
           }
         ],
         "user_rating": {
@@ -49578,50 +50705,52 @@
         "delivery_methods": [
           "steam"
         ],
-        "description": "<strong>Become a Maneater!</strong><br><br><strong>Play through a full narrative, story-based campaign narrated by Chris Parnell. (Saturday Night Live, 30 Rock, Rick and Morty)</strong><br><br><strong>Eat:</strong><br>Feed on humans, consume nutrients and find rare shark loot to evolve past what nature intended.<br><br><strong>Explore:</strong><br>7 large regions including bayous of the gulf coast, resort beaches, industrial docks, the open ocean and more. Experience a living world with a full day/night cycle.<br><br><strong>Evolve:</strong><br>Unlock and equip various Evolutions that improve and enhance your shark as you progress through the campaign.<br><br><strong>Hunter Parties and Bounty System:</strong><br>The humans fight back! The battle against various types of hunters ranging from small skiff\u2019s all the way up to the coast guard.",
+        "description": "<strong class=\"hmb\">\n <br>\n <br>\n Become a <i>MANEATER</i>\n</strong>\n<br>\n<span>\n <img height=\"8\" src=\"https://hb.imgix.net/61feac762894dfb4e5cbef1609c1ede68a422d38.jpg?auto=compress,format&s=edc36f7843a7c078a0d7c479fa9d1dd9\" width=\"616\">\n</span>\n<br>\n<br>\nExperience the ultimate power fantasy as the apex predator of the seas - a terrifying SHARK! <i>Maneater</i> is a single player, open world action RPG (ShaRkPG) where YOU are the shark. Starting as a small shark pup you are tasked with surviving the harsh world while eating your way up the ecosystem. To do this you will explore a large and varied open world encountering diverse enemies - both human and wildlife. Find the right resources and you can grow and evolve far beyond what nature intended, allowing the player to tailor the shark to their play style. This is fortunate, because to get revenge on the cruel fisherman that dismembered you will take evolving into a massive shark, an apex predator of legends. Eat. Explore. Evolve.\n<strong class=\"hmb\">\n <br>\n <br>\n Unique Story\n</strong>\n<br>\n<span>\n <img height=\"8\" src=\"https://hb.imgix.net/61feac762894dfb4e5cbef1609c1ede68a422d38.jpg?auto=compress,format&s=edc36f7843a7c078a0d7c479fa9d1dd9\" width=\"616\">\n</span>\n<br>\n<br>\nPlay through a full narrative, story-based campaign narrated by Chris Parnell (Rick and Morty, Saturday Night Live, 30 Rock) and set against the backdrop of a reality TV show.\n<strong class=\"hmb\">\n <br>\n <br>\n Diverse, Compelling Combat\n</strong>\n<br>\n<span>\n <img height=\"8\" src=\"https://hb.imgix.net/61feac762894dfb4e5cbef1609c1ede68a422d38.jpg?auto=compress,format&s=edc36f7843a7c078a0d7c479fa9d1dd9\" width=\"616\">\n</span>\n<br>\n<br>\nBattle fierce wildlife including other apex predators or fight against various types of human hunters ranging from town drunks all the way up to the Coast Guard.\n<strong class=\"hmb\">\n <br>\n <br>\n Evolve Into a Legend\n</strong>\n<br>\n<span>\n <img height=\"8\" src=\"https://hb.imgix.net/61feac762894dfb4e5cbef1609c1ede68a422d38.jpg?auto=compress,format&s=edc36f7843a7c078a0d7c479fa9d1dd9\" width=\"616\">\n</span>\n<br>\n<br>\nFeed on humans and wildlife to grow your shark, and find shark loot to evolve your shark down multiple possible paths.\n<strong class=\"hmb\">\n <br>\n <br>\n Explore the Gulf\n</strong>\n<br>\n<span>\n <img height=\"8\" src=\"https://hb.imgix.net/61feac762894dfb4e5cbef1609c1ede68a422d38.jpg?auto=compress,format&s=edc36f7843a7c078a0d7c479fa9d1dd9\" width=\"616\">\n</span>\n<br>\n<br>\n7 large regions including bayous of the gulf coast, resort beaches, industrial docks, the open ocean and more. Experience a living world with a full day/night cycle.\n",
         "title": "Maneater",
         "carousel_content": {
           "youtube-link": [
-            "rgb6EiCwQpc"
+            "OJWN37Pzzsg"
           ],
           "thumbnails": [
-            "https://hb.imgix.net/49ee6703f82c03042836c00982a50e3b64445681.jpg?auto=compress,format&fit=crop&h=122&w=218&s=901463e9afe7340c9c1f6995101ffa14",
-            "https://hb.imgix.net/e904cf05f67409427fbd9282f0a6639833b224f8.jpg?auto=compress,format&fit=crop&h=122&w=218&s=8717f04b3312a1f4ec28aa3a3cf13ee1",
-            "https://hb.imgix.net/7fc6ad7d0be86f04ee12b2a33fd90098fb6838ac.jpg?auto=compress,format&fit=crop&h=122&w=218&s=0b93c4b0250c000167ea4a327fd5b57a",
-            "https://hb.imgix.net/7ddabf63ee6eb4a4934f93c3c1e40a3d15c82c17.jpg?auto=compress,format&fit=crop&h=122&w=218&s=3853ec2ed3d19db1818c9bafc859727d",
-            "https://hb.imgix.net/8f1c929210101cd6892c9241eb7cc265ae0dabdf.jpg?auto=compress,format&fit=crop&h=122&w=218&s=b218858cab721793185751379a9ba4e9",
-            "https://hb.imgix.net/c2f81f66c6cc885114920d10e69d49108f5cdd81.jpg?auto=compress,format&fit=crop&h=122&w=218&s=c3279b8f4ee1eeb9e5932f00b0c02216",
-            "https://hb.imgix.net/bec225efc0b0eb705db056bab2b3e0eb1fb169df.jpg?auto=compress,format&fit=crop&h=122&w=218&s=8189c31c3ac36106320fa47e2d5e956e",
-            "https://hb.imgix.net/d8518680c688032077824f9ddd877bb440204fe3.jpg?auto=compress,format&fit=crop&h=122&w=218&s=45de6fde114e2d2ca89f99e9d9ec6ea1",
-            "https://hb.imgix.net/57fbc3b8a9640e5476db13edc32a213d349e267d.jpg?auto=compress,format&fit=crop&h=122&w=218&s=d29a77e48b1b12bd45864a9213078d26",
-            "https://hb.imgix.net/669f55e61fbd23306f36484da661af8d3a909e23.jpg?auto=compress,format&fit=crop&h=122&w=218&s=979383bca3cfaf45a60ee738be9f5abb",
-            "https://hb.imgix.net/086eef929db234028592ad72538cd011573ab5a5.jpg?auto=compress,format&fit=crop&h=122&w=218&s=bb0cd9e7058393abc5333f8dea89f30d",
-            "https://hb.imgix.net/aaca87d0ac6c8225acf14ed9f0e2db08b56ae45c.jpg?auto=compress,format&fit=crop&h=122&w=218&s=38fb070f026fcc21109c8e138b0c9d56",
-            "https://hb.imgix.net/f99353e5bbbdcca994c294fb0bb4f052352b70ee.jpg?auto=compress,format&fit=crop&h=122&w=218&s=b5e6c69616bf50a9cd8520589e8d641f",
-            "https://hb.imgix.net/c10117e4592599544003cb2b0e9e5306f25932c4.jpg?auto=compress,format&fit=crop&h=122&w=218&s=f24c53af66fe5ba6e15376066a468e8c",
-            "https://hb.imgix.net/01378bfaad3bb0c9c85e4ac46a9537589a8849d9.jpg?auto=compress,format&fit=crop&h=122&w=218&s=2effdba547a4cb592c98ac4ccdc59772",
-            "https://hb.imgix.net/dcd5cdcb77dbacd4854af072e77bde39718b23c2.jpg?auto=compress,format&fit=crop&h=122&w=218&s=7faeec481e44475945c18579ba0ae753"
+            "https://hb.imgix.net/6085ffd532ac37bd287a86e61e69434a439c852b.jpg?auto=compress,format&fit=crop&h=122&w=218&s=82bad5e10daecb228f79593cb8d3b340",
+            "https://hb.imgix.net/e9c29e4d2374063553e980ddaef1d58a200278c2.jpg?auto=compress,format&fit=crop&h=122&w=218&s=e3f49f8782372122ad7ef8be91ab0d6e",
+            "https://hb.imgix.net/547deb7c1c0585813a5cb97fa3043aee012efcf0.jpg?auto=compress,format&fit=crop&h=122&w=218&s=62fbcc09585d5e7076ade4d8f21bee36",
+            "https://hb.imgix.net/562465bd168adb4f1c407000e15f3767cba145db.jpg?auto=compress,format&fit=crop&h=122&w=218&s=c713aded81eb3f27a4efa7e39f9c2df0",
+            "https://hb.imgix.net/d4721bf6cbd6ca7de02fdb5d13e6e8497f7555c6.jpg?auto=compress,format&fit=crop&h=122&w=218&s=46622ed1d370d7f1ef7b48e98f624ff7",
+            "https://hb.imgix.net/14454b02c4f8add08a93a1564c0b92fc5dd90cea.jpg?auto=compress,format&fit=crop&h=122&w=218&s=1765a801e7601c31bc9bff177cdc4571",
+            "https://hb.imgix.net/7b2feb48a94532eba069ae02f30bbfed0870fea9.jpg?auto=compress,format&fit=crop&h=122&w=218&s=b4711b0b2f404d3d316cec21c1d00abb",
+            "https://hb.imgix.net/7f866c73039f9671fab2c94192cfdfbec108e8e6.jpg?auto=compress,format&fit=crop&h=122&w=218&s=9485e93de8cbc56ef811ec7cead3b79e",
+            "https://hb.imgix.net/e9058e30627a55dd8c6a6879c12757ba114a50d9.jpg?auto=compress,format&fit=crop&h=122&w=218&s=7f544328657fe9b0e1c48b2233539109",
+            "https://hb.imgix.net/5edc3f312655b0b9ace3bf2547922789aa7bc319.jpg?auto=compress,format&fit=crop&h=122&w=218&s=bf4454dc958fe71adb301d193d37c802",
+            "https://hb.imgix.net/8096c014290c1f2d290e7dccd9e4473b2c994da3.jpg?auto=compress,format&fit=crop&h=122&w=218&s=375f807051a701d6ce243e4e3e6d0444",
+            "https://hb.imgix.net/a40d334fc5142680fc5fbb02edd7164b5be899a5.jpg?auto=compress,format&fit=crop&h=122&w=218&s=bf0da3b37ab252c18400df9191e75fd0",
+            "https://hb.imgix.net/7259c9dbc098d190432ba2af824381d405b12a1d.jpg?auto=compress,format&fit=crop&h=122&w=218&s=bc33b10bb0c127aa4ae9cbaca2640d5b",
+            "https://hb.imgix.net/11b6a858b5dddb194de408625a2d5b022f092991.jpg?auto=compress,format&fit=crop&h=122&w=218&s=b5b3e412029d58c03845ce34299ac232",
+            "https://hb.imgix.net/ba0c01aef956209c0a6884f0fe2543c0f6a1d340.jpg?auto=compress,format&fit=crop&h=122&w=218&s=27a5507e3f81d5d2c8d58aa9db43580d",
+            "https://hb.imgix.net/2609d5b0aabfb04db8be0280eb764f29afd7ddb4.jpg?auto=compress,format&fit=crop&h=122&w=218&s=e3fc86d6495c7b1666413167e7e7e7fe",
+            "https://hb.imgix.net/ee812fcc03e43ea1deefe96f1758f08173db6ef1.jpg?auto=compress,format&fit=crop&h=122&w=218&s=90607f39eca74ca442cc9e22bfd3537f"
           ],
           "screenshot": [
-            "https://hb.imgix.net/49ee6703f82c03042836c00982a50e3b64445681.jpg?auto=compress,format&fit=crop&h=425&w=741&s=ab885fbd7cc3fc70fad668caf04c14c9",
-            "https://hb.imgix.net/e904cf05f67409427fbd9282f0a6639833b224f8.jpg?auto=compress,format&fit=crop&h=425&w=741&s=322c79b10858842a99dd4e2e888ccbf4",
-            "https://hb.imgix.net/7fc6ad7d0be86f04ee12b2a33fd90098fb6838ac.jpg?auto=compress,format&fit=crop&h=425&w=741&s=0ddf29079ed683d45514d5a151b18c4a",
-            "https://hb.imgix.net/7ddabf63ee6eb4a4934f93c3c1e40a3d15c82c17.jpg?auto=compress,format&fit=crop&h=425&w=741&s=1b7f15a18df14d432efbfdf1afa159cb",
-            "https://hb.imgix.net/8f1c929210101cd6892c9241eb7cc265ae0dabdf.jpg?auto=compress,format&fit=crop&h=425&w=741&s=3da1c6c0227bbd98a98c06225e128208",
-            "https://hb.imgix.net/c2f81f66c6cc885114920d10e69d49108f5cdd81.jpg?auto=compress,format&fit=crop&h=425&w=741&s=55b5c4fbc134576181cc6e12b8a59d67",
-            "https://hb.imgix.net/bec225efc0b0eb705db056bab2b3e0eb1fb169df.jpg?auto=compress,format&fit=crop&h=425&w=741&s=17ad84d6b3091e67dce76d19e9033f08",
-            "https://hb.imgix.net/d8518680c688032077824f9ddd877bb440204fe3.jpg?auto=compress,format&fit=crop&h=425&w=741&s=34b9efab8eb18cb231d2cff37f8e7232",
-            "https://hb.imgix.net/57fbc3b8a9640e5476db13edc32a213d349e267d.jpg?auto=compress,format&fit=crop&h=425&w=741&s=5b9bd28261c7bb4f0d8834f332a69f32",
-            "https://hb.imgix.net/669f55e61fbd23306f36484da661af8d3a909e23.jpg?auto=compress,format&fit=crop&h=425&w=741&s=8154f0f07f3fe02be9c5d1fcd5263936",
-            "https://hb.imgix.net/086eef929db234028592ad72538cd011573ab5a5.jpg?auto=compress,format&fit=crop&h=425&w=741&s=595266b0efdb06bb6c9447e25f6c3750",
-            "https://hb.imgix.net/aaca87d0ac6c8225acf14ed9f0e2db08b56ae45c.jpg?auto=compress,format&fit=crop&h=425&w=741&s=c0795a4ff83474d4bac4dd1d577d836f",
-            "https://hb.imgix.net/f99353e5bbbdcca994c294fb0bb4f052352b70ee.jpg?auto=compress,format&fit=crop&h=425&w=741&s=2fe919eff4adc65180df1f0fed113a37",
-            "https://hb.imgix.net/c10117e4592599544003cb2b0e9e5306f25932c4.jpg?auto=compress,format&fit=crop&h=425&w=741&s=e4799311d824ec28c637bde453cde763",
-            "https://hb.imgix.net/01378bfaad3bb0c9c85e4ac46a9537589a8849d9.jpg?auto=compress,format&fit=crop&h=425&w=741&s=70d96dacfd70f3926b7eeb237bd93fce",
-            "https://hb.imgix.net/dcd5cdcb77dbacd4854af072e77bde39718b23c2.jpg?auto=compress,format&fit=crop&h=425&w=741&s=35a1e19248e990c547ffc8484bf0e5b5"
+            "https://hb.imgix.net/6085ffd532ac37bd287a86e61e69434a439c852b.jpg?auto=compress,format&fit=crop&h=425&w=741&s=ceab46e9b0dfe05ecac5242292c637e7",
+            "https://hb.imgix.net/e9c29e4d2374063553e980ddaef1d58a200278c2.jpg?auto=compress,format&fit=crop&h=425&w=741&s=db6143fbbb77b8eb7d084d245493e0d6",
+            "https://hb.imgix.net/547deb7c1c0585813a5cb97fa3043aee012efcf0.jpg?auto=compress,format&fit=crop&h=425&w=741&s=aa16aac101696ecaeab8377b4f986a6b",
+            "https://hb.imgix.net/562465bd168adb4f1c407000e15f3767cba145db.jpg?auto=compress,format&fit=crop&h=425&w=741&s=55f79f345884a0bacb7090c2fca3bfb7",
+            "https://hb.imgix.net/d4721bf6cbd6ca7de02fdb5d13e6e8497f7555c6.jpg?auto=compress,format&fit=crop&h=425&w=741&s=6d1a26c5001740ad5601ea222d624784",
+            "https://hb.imgix.net/14454b02c4f8add08a93a1564c0b92fc5dd90cea.jpg?auto=compress,format&fit=crop&h=425&w=741&s=f993ee503b73cf49a24993eb3e226051",
+            "https://hb.imgix.net/7b2feb48a94532eba069ae02f30bbfed0870fea9.jpg?auto=compress,format&fit=crop&h=425&w=741&s=4dde5ef7e9dd8d0aca80535dfbeab10b",
+            "https://hb.imgix.net/7f866c73039f9671fab2c94192cfdfbec108e8e6.jpg?auto=compress,format&fit=crop&h=425&w=741&s=497e05353761eaf1bf76354e59a336b6",
+            "https://hb.imgix.net/e9058e30627a55dd8c6a6879c12757ba114a50d9.jpg?auto=compress,format&fit=crop&h=425&w=741&s=aafa56fa7c8d7dce9f9afba1c9fcb8d5",
+            "https://hb.imgix.net/5edc3f312655b0b9ace3bf2547922789aa7bc319.jpg?auto=compress,format&fit=crop&h=425&w=741&s=93732af0d58b682cb8343ad6e435c2c5",
+            "https://hb.imgix.net/8096c014290c1f2d290e7dccd9e4473b2c994da3.jpg?auto=compress,format&fit=crop&h=425&w=741&s=097c3b8d4ada12b11c0760a14daf11de",
+            "https://hb.imgix.net/a40d334fc5142680fc5fbb02edd7164b5be899a5.jpg?auto=compress,format&fit=crop&h=425&w=741&s=e6521642ebec31cb178b797cab54105a",
+            "https://hb.imgix.net/7259c9dbc098d190432ba2af824381d405b12a1d.jpg?auto=compress,format&fit=crop&h=425&w=741&s=9bde2ee0823601592638e515f72a3aa1",
+            "https://hb.imgix.net/11b6a858b5dddb194de408625a2d5b022f092991.jpg?auto=compress,format&fit=crop&h=425&w=741&s=89fa722b64e9954c6b80094469d5bb15",
+            "https://hb.imgix.net/ba0c01aef956209c0a6884f0fe2543c0f6a1d340.jpg?auto=compress,format&fit=crop&h=425&w=741&s=6e39ba240c33923f5d0a7348f91e4ebf",
+            "https://hb.imgix.net/2609d5b0aabfb04db8be0280eb764f29afd7ddb4.jpg?auto=compress,format&fit=crop&h=425&w=741&s=e25d77784a397674adc46576f06bad83",
+            "https://hb.imgix.net/ee812fcc03e43ea1deefe96f1758f08173db6ef1.jpg?auto=compress,format&fit=crop&h=425&w=741&s=20e8df86c67dc6c3da8c5c0610138442"
           ]
         },
-        "image": "https://hb.imgix.net/532a8d7959e3fb92cb005d5d8860875282e83649.jpg?auto=compress,format&fit=clip&h=383&w=667&s=1a2b79c489063cd92bfbb94603240a14",
+        "image": "https://hb.imgix.net/c4bf256f819a43d16824ee0fb24f7266bf5b07be.jpg?auto=compress,format&fit=clip&h=383&w=667&s=29958eb63aea1ac9181c7b2ed1ca4937",
         "display_item_machine_name": "maneater",
         "tpkds": [
           {
@@ -49650,10 +50779,10 @@
           }
         ],
         "user_rating": {
-          "steam_percent|decimal": 0.9,
+          "steam_percent|decimal": 0.84,
           "display_user_ratings": "steam_recent",
           "review_text": "very_positive",
-          "steam_count": 83
+          "steam_count": 331
         },
         "platforms": [
           "windows"
@@ -49666,7 +50795,7 @@
         "developers": [
           "Tripwire Interactive"
         ],
-        "system_requirements": "<b>Minimum:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br>OS: Windows 10<br>Processor: Intel Core i5-5300u<br>Memory: 8 GB RAM<br>Graphics: Intel HD 5500<br>DirectX: Version 11<br>Network: Broadband Internet connection<br>Storage: 20 GB available space<br><br><b>Recommended:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br>OS: Windows 10<br>Processor: Intel Core i7-3770 / AMD Ryzen 5 1500X or Higher<br>Memory: 8 GB RAM<br>Graphics: Nvidia GeForce GTX 970 / AMD Radeon R9 390 or Higher<br>DirectX: Version 11<br>Network: Broadband Internet connection<br>Storage: 20 GB available space<br><br><b>Supported Languages: </b>English",
+        "system_requirements": "<b>Minimum:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 10<br><strong>Processor:</strong> Intel Core i5-5300u<br><strong>Memory:</strong> 8 GB RAM<br><strong>Graphics:</strong> Intel HD 5500<br><strong>DirectX:</strong> Version 11<br><strong>Network:</strong> Broadband Internet connection<br><strong>Storage:</strong> 20 GB available space<br><br><b>Recommended:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 10<br><strong>Processor:</strong> Intel Core i7-3770 / AMD Ryzen 5 1500X or Higher<br><strong>Memory:</strong> 8 GB RAM<br><strong>Graphics:</strong> Nvidia GeForce GTX 970 / AMD Radeon R9 390 or Higher<br><strong>DirectX:</strong> Version 11<br><strong>Network:</strong> Broadband Internet connection<br><strong>Storage:</strong> 20 GB available space<br><br><b>Supported Languages:</b> English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Turkish",
         "genres": [
           "Action",
           "Indie",
@@ -50787,7 +51916,7 @@
         "delivery_methods": [
           "steam"
         ],
-        "description": "<strong>\n WARNING: BPM contains flashing images. If you experience epileptic seizures or blackouts when exposed to certain light patterns or flashing lights, immediately stop playing BPM and consult your doctor before resuming.\n</strong>\n<br>\n<br>\nFight as a mighty Valkyrie to repel the forces of the underworld from invading the world of Asgard.\n<br>\n<br>\n<strong>\n Gameplay\n</strong>\n<br>\nIn BPM, all of your actions and the actions of your enemies are tied to the beat of the music. Your enemies perform a dance-like sequence of attacks to an epic rock opera. BPM is inspired by retro shooters of the 90\u2019s. It is fast, frenetic and rhythmical. You can double jump, dash, rocket jump and bunny hop to evade your opponents.\n<br>\n<br>\nYour goal is to reach the end of randomly generated dungeons, collecting different weapons, abilities and items each time you play. These weapons and abilities can radically alter the way you play, making each playthrough unique.\n<br>\n<br>\nYou must defeat 7 bosses to reach the final boss. Each boss moves and attacks in a unique way that you must learn to exploit if you want to succeed. Some attacks require you to jump over fields of lava, some to dodge fast projectiles, some to hold fast for a beat.\n<strong class=\"hmb\">\n <br>\n <br>\n Features:\n</strong>\n<br>\n<ul>\n <li>\n  Shoot, jump and dodge to the beat while battling hordes of enemies.\n  <br>\n </li>\n <li>\n  Fight powerful bosses in challenging boss battles that will push you to the edge.\n  <br>\n </li>\n <li>\n  Explore randomly generated dungeons.\n  <br>\n </li>\n <li>\n  Choose from 10 different characters with unique strengths and weaknesses.\n  <br>\n </li>\n <li>\n  Wield a powerful arsenal of weapons, all with different behaviour for firing and reloading to the beat of the soundtrack.\n  <br>\n </li>\n <li>\n  Battle a diverse array of enemies, each with unique rhythmic behaviours.\n  <br>\n </li>\n <li>\n  Get overpowered and fire shotgun rockets while flying through the air.\n  <br>\n </li>\n <li>\n  Utilize abilities that radically alter the way you play the game, from teleport to freezing bolts.\n  <br>\n </li>\n <li>\n  Equip over 60 items that buff your character in unique and interesting ways.\n  <br>\n </li>\n <li>\n  Experience an epic rock opera soundtrack.\n  <br>\n </li>\n <li>\n  Challenge modes for extra gameplay.\n </li>\n</ul>",
+        "description": "<strong>\n WARNING: BPM contains flashing images. If you experience epileptic seizures or blackouts when exposed to certain light patterns or flashing lights, immediately stop playing BPM and consult your doctor before resuming.\n</strong>\n<br>\n<br>\nFight as a mighty Valkyrie to repel the forces of the underworld from invading the world of Asgard.\n<br>\n<br>\n<strong>\n Gameplay\n</strong>\n<br>\nIn BPM, all of your actions and the actions of your enemies are tied to the beat of the music. Your enemies perform a dance-like sequence of attacks to an epic rock opera. BPM is inspired by retro shooters of the 90\u2019s. It is fast, frenetic and rhythmical. You can double jump, dash, rocket jump and bunny hop to evade your opponents.\n<br>\n<br>\nYour goal is to reach the end of randomly generated dungeons, collecting different weapons, abilities and items each time you play. These weapons and abilities can radically alter the way you play, making each playthrough unique.\n<br>\n<br>\nYou must defeat 7 bosses to reach the final boss. Each boss moves and attacks in a unique way that you must learn to exploit if you want to succeed. Some attacks require you to jump over fields of lava, some to dodge fast projectiles, some to hold fast for a beat.\n<strong class=\"hmb\">\n <br>\n <br>\n Features:\n</strong>\n<br>\n<ul>\n <li>\n  Shoot, jump and dodge to the beat while battling hordes of enemies.\n  <br>\n </li>\n <li>\n  Fight powerful bosses in challenging boss battles that will push you to the edge.\n  <br>\n </li>\n <li>\n  Explore randomly generated dungeons.\n  <br>\n </li>\n <li>\n  Choose from 10 different characters with unique strengths and weaknesses.\n  <br>\n </li>\n <li>\n  Wield a powerful arsenal of weapons, all with different behaviour for firing and reloading to the beat of the soundtrack.\n  <br>\n </li>\n <li>\n  Battle a diverse array of enemies, each with unique rhythmic behaviours.\n  <br>\n </li>\n <li>\n  Get overpowered and fire shotgun rockets while flying through the air.\n  <br>\n </li>\n <li>\n  Utilize abilities that radically alter the way you play the game, from teleport to freezing bolts.\n  <br>\n </li>\n <li>\n  Equip over 60 items that buff your character in unique and interesting ways.\n  <br>\n </li>\n <li>\n  Experience an epic rock opera soundtrack.\n  <br>\n </li>\n <li>\n  Challenge modes for extra gameplay.\n  <br>\n </li>\n <li>\n  Add Custom Music into BPM and shoot, dash and dodge to the beat of your own soundtrack.\n </li>\n</ul>",
         "title": "BPM: BULLETS PER MINUTE",
         "carousel_content": {
           "youtube-link": [
@@ -50884,7 +52013,7 @@
         "developers": [
           "Awe Interactive"
         ],
-        "system_requirements": "<b>Minimum:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 10 (64-bit)<br><strong>Processor:</strong> Intel Core i5-4590 or equivalent<br><strong>Memory:</strong> 8 GB RAM<br><strong>Graphics:</strong> GTX 960 2GB or equivalent.<br><strong>DirectX:</strong> Version 11<br><strong>Storage:</strong> 14 GB available space<br><br><b>Recommended:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 10 (64-bit)<br><strong>Processor:</strong> Intel i7<br><strong>Memory:</strong> 16 GB RAM<br><strong>Graphics:</strong> RTX 2060 3GB or equivalent.<br><strong>DirectX:</strong> Version 12<br><strong>Storage:</strong> 14 GB available space<br><br><b>Supported Languages:</b> English, French, Italian, German, Spanish - Spain, Portuguese, Russian",
+        "system_requirements": "<b>Minimum:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 10 (64-bit)<br><strong>Processor:</strong> Intel Core i5-4590 or equivalent<br><strong>Memory:</strong> 8 GB RAM<br><strong>Graphics:</strong> GTX 960 2GB or equivalent.<br><strong>DirectX:</strong> Version 11<br><strong>Storage:</strong> 14 GB available space<br><br><b>Recommended:</b><br><br><b><u>Windows</u></b><br>Requires a 64-bit processor and operating system<br><strong>OS:</strong> Windows 10 (64-bit)<br><strong>Processor:</strong> Intel i7<br><strong>Memory:</strong> 16 GB RAM<br><strong>Graphics:</strong> RTX 2060 3GB or equivalent.<br><strong>DirectX:</strong> Version 12<br><strong>Storage:</strong> 14 GB available space<br><br><b>Supported Languages:</b> English, French, Italian, German, Spanish - Spain, Portuguese - Portugal, Russian, Simplified Chinese",
         "genres": [
           "Action",
           "Indie",
@@ -65803,8 +66932,7 @@
         "title": "Darkwood",
         "carousel_content": {
           "youtube-link": [
-            "3S3tmWfFACQ",
-            "6LORl2fhiac"
+            "3S3tmWfFACQ"
           ],
           "thumbnails": [
             "https://hb.imgix.net/7c92034c0ce12c0ba5f65474b3c87f760b72e461.jpeg?auto=compress,format&fit=crop&h=122&w=218&s=506fbcbdd9074ae1dc981d0bbc96da2c",
